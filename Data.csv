@@ -1,0 +1,1201 @@
+CustomerID,Age,Gender,City,ProductCategory,PurchaseAmount,PaymentMethod,PurchaseDate,Quantity
+4f2ead92-86f3-4122-8f1e-6d6433214112,37,Other,Surat,Groceries,19938.02,Cash,2025-07-31,1
+89603a92-a0b9-445a-94b6-ca76fc392fc9,43,Male,Bengaluru,Furniture,3936.98,Debit Card,2025-09-08,4
+27ea3b7b-e8f7-4db2-b662-124193d9e4f4,32,Male,Delhi,Home Appliances,20345.48,UPI,2025-07-10,9
+750ae32b-7869-48a3-95d8-5a1bdad2309f,34,Other,Kolkata,Groceries,17919.97,UPI,2025-02-24,8
+05d25680-2678-463d-a61d-b41173fa0b8a,30,Other,Delhi,Furniture,6681.39,UPI,2025-09-30,1
+dea98aa5-ac6d-4283-9ec6-55330f1deedc,27,Other,Surat,Home Appliances,42074.98,UPI,2024-03-21,8
+3e99dbc1-8780-4840-b7ef-214dfac27273,53,Female,Kolkata,Furniture,1295.95,UPI,2024-07-15,7
+b640f69a-24ee-4a6f-8309-9fb524729bef,20,Male,Surat,Furniture,22654.05,UPI,2024-10-15,3
+ba42fcbd-cbf7-41f0-8691-63cc59eb6ac0,43,Female,Surat,Books,11848.5,Credit Card,2025-05-26,8
+97ba6809-e5cd-4538-9f93-703e1ab55b02,63,Female,Delhi,Electronics,19387.83,UPI,2025-04-23,8
+aa187be1-4792-46bd-a69c-2964e93f4476,37,Female,Bengaluru,Furniture,3595.14,Debit Card,2024-07-05,5
+2e259b5d-8483-4f33-a802-ab0025d22daf,55,Other,Hyderabad,Electronics,21917.59,Credit Card,2025-04-06,2
+f0d9f0bc-32bd-43ba-906b-cae4c920a95d,19,Male,Pune,Furniture,9761.66,UPI,2024-06-04,2
+6b5f8830-bce6-497b-a601-13b9e8db6870,28,Male,Surat,Electronics,28949.1,Cash,2025-10-07,1
+33ffa33d-6fa6-47df-bd54-5d4cc77fb38a,20,Female,Mumbai,Books,32012.57,Debit Card,2024-06-09,2
+e951a40a-157b-42f4-9f85-1b628759035d,36,Other,Surat,Groceries,14427.55,UPI,2024-10-23,3
+67243821-ff41-46a0-9b63-fe983ae9c9c9,51,Female,Delhi,Sports,35189.64,Net Banking,2024-02-17,5
+e71cd770-afb6-4569-8b74-84666cc9a2f1,41,Female,Bengaluru,Clothing,46156.56,Net Banking,2025-10-01,7
+816b26da-ce60-4c1b-92b8-f61d42651652,44,Female,Surat,Furniture,30115.94,UPI,2025-10-19,7
+023254cd-268a-461b-9a25-843b0ea51bc1,28,Other,Mumbai,Beauty,30897.51,UPI,2025-06-20,1
+c6917207-567a-49c1-9327-fc3241e6b278,21,Female,Mumbai,Sports,48894.62,Cash,2024-02-02,8
+c9ce3311-df8f-4749-8100-2a1f7a909c25,50,Other,Kolkata,Clothing,24072.47,Debit Card,2024-08-14,9
+80595e3a-b7d3-4f48-acde-8bb3db217758,35,Other,Mumbai,Sports,46656.65,Net Banking,2025-03-16,9
+fbb6099b-92a4-401d-9fc9-be629bd2c387,37,Male,Surat,Automobile,8012.52,Net Banking,2025-03-01,8
+f16553a6-9f9a-4b53-b36f-92ed39f5b9f1,62,Female,Bengaluru,Beauty,9249.19,Debit Card,2025-08-18,5
+1123b273-9ca0-41b8-985e-04bb6ab45737,33,Male,Delhi,Automobile,5097.35,UPI,2024-09-20,5
+564e3e42-16f3-44b1-8df2-71dd40a6a12e,45,Other,Bengaluru,Sports,38066.38,Credit Card,2023-12-05,5
+e5c7a694-dcf2-43d8-984a-b192772d2110,19,Other,Hyderabad,Furniture,43966.49,UPI,2025-09-27,7
+7d851e1a-42d1-48ea-9d09-7a1df19bc1f2,60,Female,Pune,Books,16161.33,Credit Card,2025-10-05,1
+ba282d91-e613-405d-92ba-03687949e8c4,44,Female,Chennai,Toys,36337.12,Cash,2023-11-18,4
+c3b664eb-249e-450a-b8be-a9429d40ac4c,54,Female,Delhi,Books,12656.2,Credit Card,2025-01-07,2
+4fd23e59-6cd4-406a-a177-f279624bccaf,26,Male,Pune,Sports,26124.16,Credit Card,2024-10-08,8
+50d2543b-c8b0-44d3-ba70-1d9404e882c1,51,Other,Hyderabad,Clothing,31081.51,Cash,2025-10-08,8
+f77f8c68-2239-4f7b-8ef7-64f05695947b,40,Male,Delhi,Beauty,15999.91,Credit Card,2025-08-17,8
+9f5bd8e1-e2fb-436e-b9c2-c2c3283fcc54,39,Other,Mumbai,Clothing,33225.28,Net Banking,2024-06-11,4
+b30c0c19-ed8c-4e76-a9f3-de350f2745f3,48,Female,Kolkata,Electronics,45215.81,UPI,2024-11-16,7
+bc8886ff-ad17-4abc-9dff-059ba369af70,51,Other,Hyderabad,Toys,26691.18,Credit Card,2023-11-22,7
+298a56b9-6dce-470a-83d0-47d988bc4f23,46,Male,Pune,Sports,42562.93,Net Banking,2025-09-02,7
+f3a0aacd-8ee8-46e1-8efa-8e69823cb501,40,Other,Mumbai,Groceries,38458.03,UPI,2025-06-27,4
+5ea53daa-53a3-4910-b3d7-7501b98c1f57,26,Female,Kolkata,Home Appliances,40761.71,Net Banking,2024-09-17,1
+dfe30b16-f9f6-4a59-83cf-6c24f33fa606,60,Other,Pune,Groceries,47536.08,Credit Card,2025-06-06,4
+bc8956f9-729d-4e9b-a50e-805ec86e764c,40,Female,Kolkata,Sports,39336.59,Cash,2025-06-23,5
+b6cbce4f-07c7-414d-ac01-befc82bb8560,28,Female,Chennai,Beauty,17632.43,UPI,2024-06-20,9
+fdac71c8-b38c-4b77-8b27-a5a383be7d0f,59,Female,Delhi,Electronics,733.0,Net Banking,2025-07-12,6
+7f3486d4-3b3a-4ed1-bf9f-33acc78e5562,61,Female,Delhi,Electronics,33497.84,Cash,2025-07-07,6
+450bf8d3-a522-4162-a8f4-5f42a3d78437,19,Female,Delhi,Automobile,33067.71,Cash,2024-09-16,4
+53321acb-4b5b-42a0-8c41-940548167251,19,Female,Bengaluru,Books,35533.27,Debit Card,2023-11-27,8
+a628f94d-8c4e-4c36-8f3a-925466f971ba,64,Male,Delhi,Groceries,36411.98,UPI,2024-05-11,7
+fef0a9e9-440e-4fb6-a4d5-5e58bcb4af9f,46,Male,Bengaluru,Furniture,22300.6,Credit Card,2025-01-31,7
+55893462-6231-41c7-a36b-f52fa330b42c,35,Male,Kolkata,Clothing,38258.28,Net Banking,2025-07-10,2
+de510b59-a3fd-470e-83d7-b50f61268ba5,64,Female,Kolkata,Beauty,44297.25,Credit Card,2024-11-04,2
+c897d02d-ab02-4b2a-8994-516b545f5b48,50,Female,Delhi,Books,21251.76,Credit Card,2025-10-22,8
+9849d5b4-d095-4580-9b1f-4ae80937aedd,47,Male,Kolkata,Automobile,19682.72,UPI,2024-03-06,1
+30840e56-3192-45f1-af29-7515ddb25da6,45,Male,Delhi,Beauty,8249.92,UPI,2025-09-19,4
+482c5d68-fb7c-44d6-8c31-a0b4027a8684,54,Male,Pune,Electronics,31063.09,Cash,2024-06-04,2
+e5d942e6-95a8-4979-b364-fb942aa908c2,59,Female,Delhi,Sports,20419.03,Credit Card,2024-02-04,5
+69ef5867-3688-4e8b-b5a3-d0728911bddd,57,Male,Surat,Automobile,18859.89,Net Banking,2024-01-21,2
+67ebdf71-0bc4-4776-8107-a2d01bac2cc5,25,Other,Kolkata,Sports,2595.73,Credit Card,2025-11-12,1
+e8396f05-e910-4e9c-8d26-9511edf8a59d,61,Male,Bengaluru,Automobile,22228.85,Cash,2025-11-10,7
+5d75cc5e-a04c-4b50-96c4-62fb97df2356,61,Female,Chennai,Furniture,24181.35,UPI,2025-07-24,4
+cbab6d91-9cf3-42c7-9893-0e57d21bea2c,23,Male,Bengaluru,Sports,33426.0,Credit Card,2024-03-22,7
+28136645-9d2d-4bdb-a707-c6d0adb3f556,25,Female,Pune,Home Appliances,44103.57,Credit Card,2025-11-10,9
+9d1cfe75-22c8-4fc8-b616-e2ecdca05b53,39,Female,Delhi,Beauty,22246.92,UPI,2025-10-28,6
+e298f3d2-7210-4510-af81-1ea39811934d,36,Other,Chennai,Automobile,14722.38,Net Banking,2024-11-30,4
+f096be4b-a47c-4b77-9fbc-a6c6fb267810,60,Male,Delhi,Beauty,8819.85,Net Banking,2024-01-04,2
+0cd277f6-e8ae-4d8c-8fc6-1ac185af566d,46,Male,Bengaluru,Sports,25705.25,UPI,2025-10-05,4
+cc79f721-a806-4cf5-a3b2-d70d9e04acc4,21,Other,Bengaluru,Books,42954.86,Credit Card,2025-06-15,4
+13bceaa9-b959-4a3e-b9f0-a985caf973b8,33,Male,Mumbai,Furniture,21197.84,Cash,2025-04-02,6
+60c44dc7-0b70-4cd9-8717-913281195fe0,56,Male,Mumbai,Beauty,6797.08,Cash,2024-11-27,1
+e1d6a377-80c1-4d99-8d19-91919269543f,39,Other,Surat,Furniture,23046.2,Cash,2025-08-09,6
+d0b39704-1218-48cc-b435-f5500602ff02,38,Other,Kolkata,Toys,37418.09,Debit Card,2024-12-30,7
+954071b2-7a3b-4b50-87b6-f6140144add4,23,Other,Pune,Books,31395.23,Cash,2024-05-29,4
+e39e4252-daa7-4cf0-ac14-2fdb8b22a5fd,45,Other,Mumbai,Electronics,5662.72,Credit Card,2024-12-31,8
+f5076b65-6572-49fb-bbf5-cbdee06250a8,21,Other,Kolkata,Clothing,7363.57,UPI,2023-12-25,8
+9341f420-37ca-423a-bd9f-2e10c031cd2e,62,Male,Kolkata,Groceries,42274.06,Net Banking,2024-01-10,7
+f28c326a-81c0-47fb-9b8f-b3df007ca111,60,Other,Pune,Toys,31712.71,UPI,2024-11-08,5
+97bfc1ba-9dff-4299-a35b-78337f73fd98,58,Male,Surat,Furniture,38919.59,Cash,2023-12-20,3
+6857e085-9fd1-4687-9b3f-5860242506a0,57,Other,Bengaluru,Books,19830.64,Net Banking,2024-08-20,5
+a12d1302-1c67-496a-bf18-58473f0d32b9,45,Other,Chennai,Beauty,37242.69,Net Banking,2025-08-07,4
+13d51cac-635b-431e-a8e8-a9fcb61fc0bb,31,Male,Kolkata,Clothing,16229.56,Net Banking,2025-09-01,4
+d39c8da3-f40c-423d-83ef-9e5b7008211c,23,Other,Pune,Clothing,14520.92,Credit Card,2024-04-14,2
+9ef6a524-4960-49ee-8665-abddc82250b0,45,Other,Pune,Sports,40711.13,Cash,2025-05-03,1
+f536263b-f3ad-4953-9f34-386e151e4b96,64,Female,Surat,Beauty,27513.52,UPI,2024-07-27,3
+cec88497-d34d-47e9-b4e1-a0ebbd038b11,60,Male,Delhi,Automobile,39947.27,Cash,2023-12-06,7
+1145b1de-ca68-447f-b7f9-bc712d37940b,40,Male,Mumbai,Clothing,47367.89,Net Banking,2025-07-27,8
+67e410e4-7a9a-4524-bf9e-e8b4ca497d2f,18,Male,Pune,Toys,32642.63,UPI,2024-07-11,4
+9e1259f7-04b9-4d57-80bd-fcc41efeaba2,26,Other,Kolkata,Books,500.95,Cash,2024-03-17,5
+39ee65be-6b0b-4c17-8e19-494cb1149c4f,20,Female,Mumbai,Automobile,15073.1,Debit Card,2024-07-26,6
+04865a60-5306-4b7b-bbe1-a434532356a2,43,Female,Pune,Home Appliances,47910.92,Debit Card,2025-09-30,9
+c789c7ef-116f-4731-8619-51e9bad920ff,59,Other,Hyderabad,Home Appliances,11506.91,Net Banking,2025-06-09,6
+687b36e4-ca2a-4f60-843f-299abeaab1c0,39,Other,Pune,Electronics,36350.89,Net Banking,2025-03-21,3
+de2e3209-6fed-48ff-8e35-57bfecef501d,57,Female,Chennai,Beauty,190.17,UPI,2024-09-19,5
+242ce733-8a37-431b-b2b4-e628d0442a1a,34,Male,Hyderabad,Automobile,31331.6,Credit Card,2024-09-08,7
+80d45046-1e24-4bf5-89ba-25fc24e408a3,25,Male,Kolkata,Electronics,14097.21,UPI,2025-06-07,8
+eea5417c-6bd8-4cca-bc0a-d83b23be44f4,59,Female,Bengaluru,Electronics,15182.18,Cash,2023-12-06,9
+27e9d004-28d9-4775-b032-9752ee161b04,46,Female,Kolkata,Clothing,41753.14,UPI,2024-01-14,6
+413e65d0-c4bc-4d71-8ee9-0dc89a09b35d,38,Male,Pune,Home Appliances,33016.6,UPI,2024-11-02,7
+28c0d6b5-0055-43e7-b14b-961787f13b05,28,Other,Kolkata,Electronics,28082.23,Credit Card,2024-03-20,1
+ce998b37-9821-44d6-8bb5-82a65d7b466f,36,Female,Pune,Home Appliances,43777.83,Cash,2025-05-04,6
+dad87f6f-068d-4876-b8ca-0ac78cea03c5,63,Male,Surat,Sports,15015.25,Debit Card,2024-08-06,4
+d4cd7d0f-1ca4-4c73-bc53-6566b0512158,27,Female,Surat,Clothing,46764.55,UPI,2024-06-28,6
+a2844858-aafc-429d-bc02-4a151cef297f,29,Male,Kolkata,Furniture,18520.43,Debit Card,2024-03-13,4
+68c8be1d-167a-48ae-95fc-51bc81d19a7a,32,Other,Hyderabad,Groceries,8565.11,Debit Card,2024-12-27,6
+9fc738df-d911-4d79-be80-2b88efb8ea1b,36,Female,Pune,Home Appliances,155.7,Credit Card,2025-10-22,3
+5e9df865-6154-40ba-8a0d-5cb2fe4baded,61,Female,Chennai,Beauty,20967.44,Debit Card,2025-03-24,9
+5dcd5e0d-6c0e-47f3-afb5-080b96efa188,27,Other,Hyderabad,Sports,953.35,Credit Card,2024-12-26,4
+9139c52b-6aa6-4f41-9928-a058b8af420a,60,Male,Hyderabad,Automobile,2092.03,UPI,2025-02-10,6
+9aa7c4f3-0d3c-4599-b574-10bbdc4255f1,56,Female,Pune,Clothing,25253.77,Credit Card,2024-12-10,3
+a51cb0ac-4fd4-446b-b33e-9bf448400518,55,Female,Pune,Furniture,36686.69,Net Banking,2024-03-25,7
+85356ecb-4a94-4da3-87e0-c415b083c766,51,Male,Hyderabad,Sports,37947.48,Credit Card,2024-08-08,9
+5b773964-cab3-46fe-974f-e65cc98ed92a,52,Male,Mumbai,Sports,44216.8,Debit Card,2024-08-10,5
+45def290-166b-4fdb-8116-5112363c86b4,38,Male,Bengaluru,Books,30734.17,Credit Card,2025-01-06,6
+9cd4a82b-38f1-43e6-813a-164f8993e18e,23,Female,Delhi,Toys,35819.57,UPI,2024-11-03,8
+1da6ab00-51f6-4108-8c0c-4c2438f1791d,62,Male,Surat,Automobile,22790.55,Net Banking,2024-04-09,6
+a7cd6897-d185-475f-8e95-621d15ffe570,35,Male,Chennai,Electronics,47256.9,Cash,2025-05-30,4
+77eded59-03bc-43ca-8663-5f1bf9292978,53,Female,Bengaluru,Automobile,13008.32,UPI,2024-12-28,9
+7b0831db-e237-4fd2-883d-95911649a80b,53,Female,Pune,Home Appliances,40416.19,Credit Card,2025-01-06,8
+2e03d3ac-ab51-4e20-b237-2577211ca79d,64,Male,Chennai,Beauty,41255.26,Credit Card,2024-06-19,6
+7b04df8a-a94d-40b3-bcb4-35a22a4bca17,60,Female,Surat,Electronics,33320.06,Cash,2024-01-21,6
+56dbcfcd-34ee-4107-9c3f-e25f5d25abcc,48,Female,Surat,Automobile,47079.41,Cash,2024-08-24,8
+9f9bb114-0de3-45e1-892f-004238b6628c,43,Female,Chennai,Clothing,47889.85,UPI,2025-10-20,8
+f97a35c2-00f6-4fdc-ae9d-c6b6acc09246,52,Male,Hyderabad,Clothing,17819.32,Net Banking,2025-10-12,5
+83ec363c-bc4b-4a02-ad9a-d17721d13523,63,Female,Hyderabad,Electronics,9601.77,Cash,2024-05-05,3
+47976068-c830-474c-831a-f10959222102,63,Male,Delhi,Furniture,26713.46,UPI,2025-03-29,9
+59f8b0d6-f7bc-4967-b37a-c0a4b33268f4,25,Male,Bengaluru,Home Appliances,6913.67,Credit Card,2024-06-11,9
+936c5412-8bff-4e47-afa9-bfad475ac49f,26,Other,Chennai,Sports,12915.26,Debit Card,2025-09-08,5
+dca02de1-1ad0-46d5-affd-04899921fd5a,64,Male,Delhi,Furniture,44099.86,Cash,2025-05-17,1
+71268ad5-0572-4bae-b83a-3fc3e80a214c,54,Female,Surat,Books,34896.99,Debit Card,2024-05-26,7
+ac4a55e4-1fe1-48c4-85fb-e998851a0231,40,Other,Hyderabad,Home Appliances,15708.14,Debit Card,2024-01-26,8
+8653e414-841f-4ba0-95f7-090546071207,27,Female,Chennai,Groceries,42416.82,Credit Card,2023-12-17,9
+716f98c1-706b-4955-a98a-89ce1e30c7d0,34,Male,Chennai,Sports,3662.83,Debit Card,2024-10-24,3
+8ad079fe-f7a2-4c11-b35b-ac9d95d07646,36,Female,Hyderabad,Electronics,4354.64,Net Banking,2025-08-01,3
+32ed1eea-3d33-45af-8b5a-605635af8656,18,Female,Bengaluru,Furniture,5417.74,Net Banking,2024-02-03,9
+1e6d5f87-1928-4097-a01e-d03f57ce4054,39,Other,Kolkata,Sports,13753.8,Debit Card,2024-08-24,8
+bc0e1f23-24c4-412c-af38-925e444cbf24,45,Other,Bengaluru,Sports,15893.85,UPI,2024-04-01,7
+3673197f-9787-4d8c-9147-228423dab603,41,Female,Kolkata,Electronics,10761.79,Credit Card,2023-12-27,5
+2234a1bc-3754-4be3-a6b6-049b636d719a,35,Other,Chennai,Toys,26506.02,Net Banking,2025-11-08,5
+419499b0-4305-46e2-8c15-67ff49d4344e,48,Female,Bengaluru,Electronics,18565.16,Net Banking,2025-10-19,9
+542416b2-3964-498e-a0c6-29a5af06d711,28,Other,Chennai,Sports,15471.32,Debit Card,2024-07-28,2
+07b82719-b98b-41e6-96f8-174a9236762a,52,Other,Delhi,Beauty,13386.21,Cash,2025-06-08,3
+ce914db5-a815-47fb-a97f-3160756b510f,31,Female,Hyderabad,Home Appliances,2919.82,UPI,2025-04-28,6
+5a892b83-c9f4-459e-97e7-881f12f89d27,25,Other,Delhi,Automobile,43100.5,Credit Card,2024-03-09,6
+dbc61717-f7e7-4308-90c2-b3cdbca961be,41,Other,Mumbai,Toys,23359.09,Cash,2024-05-21,6
+f5bc0aaf-61ed-45f6-8ea7-e1c6953ae57c,46,Female,Pune,Furniture,48097.38,Credit Card,2025-05-24,1
+0789bf1a-4567-4a57-ac0f-234008d7e918,23,Female,Chennai,Home Appliances,17435.81,Net Banking,2024-07-13,2
+5df5e203-5d55-4c0b-a7e9-6d2ae63952b8,37,Female,Surat,Furniture,41257.21,Cash,2025-10-03,4
+30c05e85-aaa1-4095-9616-0e4e8eeef22f,34,Other,Surat,Clothing,34589.41,Credit Card,2025-06-05,7
+1f0243d8-2222-410a-9b72-371ffd2b620f,18,Female,Pune,Automobile,17354.36,Debit Card,2024-12-09,6
+8f0ad013-8850-4317-9f16-0c993b0be70e,35,Other,Bengaluru,Toys,19739.95,Credit Card,2025-05-07,1
+e4e7290b-cf3f-4eae-8615-f3ff03c8df1b,63,Other,Mumbai,Automobile,1568.27,Cash,2024-12-15,2
+5b4a8347-af8b-46dc-8597-318017e87cf7,22,Other,Kolkata,Beauty,38241.44,Net Banking,2024-04-07,8
+833e373d-f418-456a-b0e4-949fb70b9afd,20,Other,Delhi,Furniture,38104.39,UPI,2023-12-13,4
+8e730528-860c-437d-af38-65f647acfc29,54,Other,Kolkata,Home Appliances,711.9,Net Banking,2025-04-30,5
+2a906c49-841a-493f-ab51-8197fa742d8e,51,Male,Pune,Electronics,29150.54,Debit Card,2023-11-18,4
+15b2529e-9c4c-42d8-964c-d59ce1126fdb,28,Female,Chennai,Automobile,8731.86,Cash,2024-01-24,6
+bb14dc57-ddab-47ff-99ca-46d6672c84e9,32,Female,Mumbai,Home Appliances,30349.13,Net Banking,2024-11-18,3
+162c9164-7af9-4c0b-8601-8d9a4520ef65,50,Male,Chennai,Furniture,8921.28,UPI,2025-08-16,8
+2dec10f7-6090-49b4-b740-20f9c5e67866,29,Male,Mumbai,Toys,42841.3,Debit Card,2025-03-06,1
+7b688f01-074e-4d63-92e1-b3d4879d3f5e,49,Female,Pune,Clothing,8639.84,Credit Card,2024-07-20,7
+505f4611-40ef-4360-89e5-3d1ca184e71d,60,Female,Bengaluru,Toys,44622.05,Debit Card,2024-04-03,2
+80ab2018-6783-4034-a14f-647f57d1aa97,33,Male,Hyderabad,Toys,10862.08,Net Banking,2025-01-13,6
+7674af0f-9dba-47eb-a2cb-3dd8168e5253,50,Female,Surat,Beauty,16121.36,Credit Card,2025-03-20,7
+dac5da60-6277-4759-82c4-5891c42a4c7e,55,Female,Chennai,Furniture,2199.93,Net Banking,2024-11-09,4
+56c630c4-6c63-4778-a5fb-e575b9db3a1f,63,Other,Bengaluru,Toys,17808.31,Cash,2025-04-27,9
+5efe32e9-0227-4285-9456-4305692c8e99,52,Male,Bengaluru,Electronics,41833.44,Net Banking,2024-08-16,8
+dd9a4f7c-39ad-4dfa-88e7-260b8d8c967c,24,Female,Mumbai,Automobile,15421.1,Cash,2025-06-07,4
+261c312a-14e7-4e85-b07e-71bc03cef5bf,29,Female,Surat,Home Appliances,24684.8,Net Banking,2025-05-13,5
+b39b8f17-ebe7-4d63-8724-46526feed8f4,46,Female,Bengaluru,Books,20758.03,Net Banking,2023-12-21,3
+0fb0adec-156f-4530-a70a-61498773473d,47,Male,Bengaluru,Furniture,43458.27,Cash,2025-07-14,3
+86f3a2f7-d82d-4cef-87fd-d2cd10249354,61,Other,Delhi,Books,11855.92,Debit Card,2025-10-20,1
+23acac28-5c1c-4946-8e65-603edea255c3,61,Female,Kolkata,Automobile,22722.5,Net Banking,2024-07-03,7
+ce31bbc7-cf0a-4809-bae0-96d343a20298,39,Other,Pune,Clothing,46385.84,Credit Card,2024-07-11,9
+016721e1-4cd0-4e2b-8b12-61596e60a13b,35,Female,Delhi,Books,16158.52,Cash,2024-02-09,4
+b6d9c480-7c46-4fda-a377-01c0f35c219d,41,Female,Kolkata,Books,29419.81,Cash,2024-11-12,5
+5e8c965b-680e-416f-b71b-46337f3f63ac,19,Male,Hyderabad,Toys,35052.25,UPI,2024-03-19,8
+a46ee4de-1a02-48e2-a601-2db5126d0684,29,Other,Bengaluru,Clothing,26398.46,Debit Card,2025-05-26,5
+d5fe18de-97eb-4690-bf9b-bd7c4ee5eb1d,58,Other,Hyderabad,Clothing,4266.3,Debit Card,2024-05-01,9
+dde39f8f-fc23-4482-9e5b-249369f0109a,62,Other,Hyderabad,Furniture,40064.88,Cash,2024-02-06,6
+8cdc1019-b74d-4059-92aa-2715116ba009,25,Male,Delhi,Toys,22482.12,Debit Card,2024-10-15,2
+6bc9977e-9df2-4780-82ab-bfa99dffb8ef,24,Other,Kolkata,Home Appliances,37374.01,UPI,2025-05-08,9
+e1063e34-0e52-4826-a0cd-bb20a8422144,20,Other,Bengaluru,Automobile,36826.44,UPI,2024-10-24,5
+b26715da-e002-4c3c-9f67-395051ecf857,18,Male,Delhi,Groceries,23010.32,UPI,2025-07-28,6
+0f4e8725-dced-465a-a72f-9cb5037750c3,37,Male,Pune,Beauty,7560.44,Net Banking,2025-02-16,8
+3f408f54-46c8-4dc9-bc10-3c17694036e6,18,Female,Kolkata,Electronics,14215.38,Cash,2025-07-08,5
+e3f3c540-dd27-48e1-b07d-2f4284f1fb9e,51,Male,Delhi,Sports,34058.58,Debit Card,2024-11-12,6
+fa803da8-aa95-4457-b0c1-56e9ccc87cfe,48,Male,Pune,Home Appliances,2415.54,UPI,2024-06-25,4
+6eb81cac-b459-4315-87db-5407b58ee6a4,58,Male,Surat,Clothing,10665.94,Cash,2025-05-27,3
+06779adb-7c25-4405-81c1-e819398a69dc,49,Male,Pune,Books,35894.87,UPI,2024-04-06,5
+9a27cd92-e770-4351-9a87-a9e7aff4277b,44,Male,Kolkata,Furniture,24084.28,Debit Card,2024-08-25,4
+a5a27e6b-5a08-4481-9a22-52d182a8a8cc,59,Male,Chennai,Home Appliances,20961.09,Cash,2025-02-13,6
+970b2468-82b8-4fa0-bb5c-2cabe121bae9,46,Other,Pune,Clothing,5207.55,Debit Card,2025-04-13,3
+573e006f-8f6b-425e-97b8-e77034695eee,34,Female,Delhi,Clothing,33132.32,Debit Card,2024-08-04,4
+a2bfe321-66af-49af-adb8-5fbf380198a7,53,Male,Mumbai,Home Appliances,13600.74,Cash,2024-01-11,9
+060cd9b6-c290-4671-aeb2-baaf045766f5,64,Other,Pune,Groceries,28099.49,Debit Card,2024-03-10,6
+1ac5affb-46ea-4f74-a91d-ba09e2af7f7a,35,Male,Kolkata,Beauty,44020.27,Credit Card,2025-04-09,8
+08b458e7-f724-4bb3-ba1b-2badf51d2860,38,Other,Bengaluru,Automobile,42666.41,Net Banking,2025-03-07,1
+98997d98-962d-41c2-bc56-5eca03e8b1a5,46,Male,Delhi,Groceries,16051.2,Cash,2024-05-22,7
+9eebc80d-0834-4178-896e-abbb564f1f62,20,Female,Bengaluru,Books,39830.03,Debit Card,2025-10-17,3
+53d40c91-4cee-47ed-96ba-bf13c86ddd4a,53,Other,Chennai,Groceries,8953.2,Net Banking,2025-10-22,9
+7d45ed63-9bfd-4dc1-a7ab-fc9859b102a4,61,Female,Surat,Groceries,34224.66,Credit Card,2025-08-17,3
+6379c05b-2b10-45c8-972a-d8c19cb27ba6,57,Male,Kolkata,Home Appliances,9428.55,Cash,2024-07-07,2
+95a76b75-7205-47b8-bbbb-1c3c1e3868b2,54,Female,Kolkata,Groceries,20258.46,Cash,2025-02-17,6
+f6895934-75bf-4ed2-82b2-fb0059f4cc67,62,Other,Surat,Automobile,3214.46,Cash,2025-03-23,4
+0cbae7fb-2b85-41f7-ac8a-c2849cc8c5fd,53,Male,Delhi,Sports,48609.79,UPI,2024-01-07,6
+7389835e-f84f-4461-ba05-b0504719eaf3,42,Other,Pune,Groceries,3726.87,Debit Card,2025-09-28,1
+f15d0601-8bce-41a2-9532-602a993cb6a9,28,Female,Bengaluru,Home Appliances,23637.29,Cash,2024-01-08,2
+4e9f2d0c-0dec-4c6f-a6ff-e766872a6dcd,56,Other,Chennai,Home Appliances,47158.33,Cash,2025-03-16,1
+ed067e36-e3b1-4c7d-b345-acd3f7047523,25,Female,Kolkata,Books,18769.26,UPI,2024-12-16,3
+e99fd240-355b-4af7-ad5b-d2a82ca01c59,20,Other,Mumbai,Books,31577.96,UPI,2024-01-02,4
+943aa4d9-a1fb-4778-8bed-c4c6884403cf,22,Other,Chennai,Groceries,47688.72,Debit Card,2025-11-12,8
+7d4ed1f8-f2c4-452d-9209-14b6aec2c866,55,Male,Kolkata,Clothing,36027.23,Net Banking,2024-03-26,3
+6d35d8aa-a2e7-43ca-97ee-92f9c7dfe31e,46,Other,Pune,Home Appliances,35722.64,Cash,2024-09-08,9
+fb2a0939-71e1-4fad-9960-aa5005720ebc,39,Other,Surat,Beauty,24010.31,Net Banking,2023-12-23,2
+785000ba-089e-4004-b2fd-904059067f53,31,Female,Chennai,Clothing,16601.95,Debit Card,2024-08-15,2
+b34d6c33-1627-4109-bdbb-4ddb9b776cd8,27,Male,Pune,Beauty,28701.88,Cash,2025-08-24,6
+0a430a39-cd2f-4a98-a630-cc5d4b4c33d3,25,Male,Mumbai,Sports,21553.0,Debit Card,2024-01-10,1
+a969a3ed-c94c-4328-8ff5-e3d2e67aa602,30,Other,Delhi,Clothing,2122.8,Net Banking,2025-01-30,8
+a898772b-8120-461a-af3b-e8526662ce7c,44,Other,Pune,Home Appliances,10810.49,UPI,2025-09-02,6
+d58d37ba-f613-4a46-8925-88b80a620806,48,Other,Pune,Clothing,35535.68,Credit Card,2024-01-25,9
+4af431f8-6a29-4ba8-a648-2f9c41c35778,34,Female,Bengaluru,Electronics,25642.02,Net Banking,2025-10-11,9
+92224a59-606c-45d9-9ac2-3eadbc821eb6,39,Male,Hyderabad,Sports,44839.46,Cash,2024-10-05,1
+eabdbb52-4e77-4c2a-9789-fdfd8b331c44,35,Male,Mumbai,Books,39737.94,Cash,2024-08-07,2
+fa74ff9b-b8cb-49f7-92bc-ac0d0a3bc445,34,Male,Bengaluru,Automobile,3839.62,Credit Card,2024-03-16,2
+4009055e-032e-4b8c-b7cc-b9321115ab13,18,Male,Surat,Furniture,40220.86,Net Banking,2025-01-05,2
+6ee91900-fc9c-4bad-93eb-a86b7162a678,55,Other,Mumbai,Clothing,40730.87,Net Banking,2025-04-15,2
+98efeea7-8db9-406f-bf2d-013433cb88d2,45,Female,Mumbai,Books,35223.73,Credit Card,2025-05-15,6
+f60b486b-4102-4a9f-a7d4-08fd2ec829ee,28,Male,Mumbai,Electronics,37997.42,Credit Card,2025-02-02,7
+9819cfe5-f164-4a6b-a04b-8c75632a7cd1,32,Other,Bengaluru,Clothing,27330.57,Debit Card,2024-05-22,3
+796069ea-89de-4f6f-b5ff-67d840004acd,29,Other,Pune,Toys,6541.66,UPI,2025-07-25,1
+d0a94a38-aa7d-4935-9a2f-c74ed388f52e,60,Female,Mumbai,Furniture,39184.04,Cash,2024-06-06,5
+7bffa6d2-217d-4511-b78e-2f8564f21813,39,Female,Hyderabad,Automobile,36397.4,UPI,2025-02-18,2
+17f23288-c677-4208-a321-85e89279d8f5,33,Female,Mumbai,Beauty,4988.64,Net Banking,2025-02-16,2
+114ae62b-408b-4fc4-bb0c-d3d2d78a55ac,42,Male,Delhi,Groceries,22081.6,Credit Card,2025-06-20,1
+a9a737fb-87cc-4053-a657-ce862d68e21e,56,Female,Surat,Home Appliances,47778.83,Debit Card,2025-05-06,7
+8b4ce857-e867-4f0a-9c51-722ec3e7407c,36,Male,Surat,Toys,1957.76,Credit Card,2024-06-04,4
+752b0c9c-a2b7-46a6-8ef5-fe9a0a87397d,60,Other,Hyderabad,Toys,38040.14,Debit Card,2025-01-24,9
+bf68ec9b-dcbb-4249-ae34-e427d151814e,61,Female,Bengaluru,Books,36201.69,Debit Card,2024-05-15,6
+ed42311d-526e-42ab-bd02-29e07fd468c4,63,Female,Delhi,Beauty,27849.93,Net Banking,2024-02-16,3
+e5d55a4a-18ac-4a1a-876f-8672340899d3,22,Female,Bengaluru,Books,46903.55,Credit Card,2024-05-02,8
+2baf6d37-921b-42a2-a388-39d79a1921d1,35,Other,Hyderabad,Furniture,32892.55,Credit Card,2024-08-17,9
+13ea34c6-e33c-4605-936a-1fda70324351,41,Male,Kolkata,Clothing,25573.73,UPI,2024-04-12,7
+249fe0ec-1d81-4e5b-83a8-8a0368c1fb4d,35,Male,Chennai,Electronics,34836.77,UPI,2024-10-03,7
+e364ab9b-2247-4860-bcc7-43bfcd5a6a73,50,Other,Bengaluru,Groceries,19093.09,UPI,2024-06-07,8
+4fcbcdf9-04fc-429f-8949-3a7b86b5e1b9,47,Other,Pune,Groceries,28354.08,Credit Card,2024-02-29,3
+12156a2e-fabe-4809-a858-8a47aebde2e9,56,Female,Chennai,Toys,7967.46,Debit Card,2025-04-24,7
+ad8821f8-9a55-4281-abb8-341f3055c7ed,27,Other,Chennai,Books,9057.43,Credit Card,2025-10-11,9
+bf855153-29f6-42ca-91df-700172053c9b,27,Other,Chennai,Books,21077.54,Cash,2024-11-07,1
+718eb51b-f57b-4bfc-b2f0-5e79c5129da1,22,Female,Surat,Groceries,4478.15,UPI,2024-01-27,1
+4c0fe1e9-2089-43d7-8732-904a5a6e7d4e,59,Male,Delhi,Toys,22093.9,Cash,2025-10-12,2
+c046553c-e599-4611-881d-7474ab06cc10,53,Female,Hyderabad,Books,19794.22,UPI,2024-06-22,1
+cc0c64d2-cbfe-47a9-94c6-f0b377844e77,53,Female,Pune,Sports,12985.69,Net Banking,2024-11-13,8
+435c9adf-cbe1-4f84-9963-53be8d7c5677,55,Other,Hyderabad,Toys,9881.62,UPI,2024-04-06,1
+8a3e02ec-86de-4472-acaa-73b6c821a49a,41,Male,Surat,Books,13051.98,UPI,2024-05-31,2
+dc76f934-9be2-4244-b17b-8d6e4bdf4a03,21,Other,Mumbai,Books,1564.53,Cash,2025-07-16,4
+336a3b7d-9c3e-45f9-a3e6-622a9c5b935a,30,Other,Surat,Groceries,38047.76,Cash,2025-04-17,6
+799add08-c286-4869-8b18-7af33ee57f77,41,Other,Surat,Groceries,10484.33,UPI,2024-05-27,2
+0446dbb9-d034-4f21-8476-4e47705c60dc,34,Male,Mumbai,Sports,24216.9,Credit Card,2025-10-14,5
+84bb9295-b607-4938-a40c-629e67395e46,28,Male,Kolkata,Electronics,8206.3,Net Banking,2025-08-01,7
+023def2f-fcba-4ae5-9cae-9e8a16a2f892,44,Other,Mumbai,Sports,46585.02,Net Banking,2025-08-02,2
+7a1008b4-c8a1-40a9-bd20-042b1af2e704,18,Other,Kolkata,Groceries,36221.09,Net Banking,2024-01-31,4
+9f923208-41be-43db-9c44-01b0f982449e,51,Other,Delhi,Clothing,49361.98,Net Banking,2024-10-24,8
+99e128ce-f238-4a0d-8eee-0bb1ca31a967,50,Other,Pune,Automobile,47190.47,UPI,2024-03-02,9
+c52c8135-b777-4b30-b2ba-a042b7c2071f,36,Other,Pune,Sports,34081.5,Cash,2025-10-28,5
+9abbf081-5538-4e48-aeb0-1f1a44a975c9,43,Other,Pune,Sports,14121.19,Cash,2025-01-19,2
+bf8549fa-7a55-4a9e-ba3e-2c513cb94d38,64,Other,Delhi,Electronics,48742.06,Credit Card,2023-12-08,1
+5b2132f2-8f6e-4dbf-8aed-565005252e48,20,Female,Delhi,Sports,41165.74,UPI,2025-08-26,4
+16a2cf23-1027-4e42-9a5e-2f382e0cb0f0,55,Female,Pune,Furniture,31301.27,UPI,2025-07-13,2
+d649ab47-d0e7-47e8-82c4-310459d0ae62,37,Other,Surat,Toys,957.85,Credit Card,2024-01-13,8
+b10af072-1038-45e6-b66e-61cca5745056,29,Other,Surat,Furniture,29038.24,Credit Card,2025-06-16,8
+1910be91-b64b-4415-aca7-87068525fb12,32,Male,Mumbai,Groceries,17155.43,Net Banking,2023-12-31,4
+43a79df5-bc38-4d5b-8011-5e380d048e2b,20,Other,Pune,Beauty,20478.34,Cash,2025-06-18,4
+2c6eb897-13fb-44cf-8c5f-da0ca970d768,30,Male,Kolkata,Clothing,1147.88,UPI,2025-03-13,9
+47aaad1b-5bd1-4d91-ba66-cc6cccec85ec,60,Male,Delhi,Toys,15692.31,Net Banking,2024-06-10,9
+1f41e47f-9044-4df9-96d9-23b7cd100316,57,Female,Delhi,Electronics,30077.75,Net Banking,2024-06-11,6
+c06c30ce-d7e5-4dd8-bd1b-992db2952ef7,28,Male,Surat,Toys,23133.83,Credit Card,2025-01-17,4
+edb5973c-4899-444b-a5f3-7da07e8e33fa,32,Male,Delhi,Toys,27635.3,Cash,2024-07-12,7
+598526cc-6372-4929-85f3-521b16d057b7,49,Male,Chennai,Automobile,21016.8,Cash,2025-07-05,2
+541315ae-74b7-467b-8095-7a579ba2a43d,50,Other,Hyderabad,Groceries,1290.61,Credit Card,2025-06-03,7
+016a8db4-d8b5-483a-8859-26603ce2966f,45,Other,Delhi,Books,4369.83,Net Banking,2024-10-20,1
+9910a70e-770e-4543-a8c3-df55dce8aebf,46,Male,Hyderabad,Electronics,8608.15,Net Banking,2025-09-22,1
+fb6f9e1f-e1ed-4673-9e7f-13d5c68ff7df,47,Other,Hyderabad,Clothing,35909.74,Debit Card,2024-07-17,9
+b0bad44e-09f0-4dab-844a-aa8ddcd99d0d,61,Female,Mumbai,Home Appliances,2076.1,Cash,2023-12-16,3
+cc999814-520a-4473-96c9-8ec37494e1e1,29,Female,Kolkata,Electronics,34327.72,UPI,2025-07-21,6
+bde5f250-e492-47ca-a8e2-9c5706605936,31,Female,Pune,Books,6313.59,Debit Card,2024-07-13,7
+6c6574de-e544-4700-9883-528c0de2afa5,48,Other,Pune,Groceries,46369.39,Cash,2024-08-15,7
+87a5950b-cac9-47c0-b5bd-19ad888afab9,46,Other,Surat,Books,634.48,Net Banking,2024-05-26,3
+f6d98cc9-e8ca-42ed-bd81-4fad01e41c23,63,Female,Pune,Furniture,4238.4,Cash,2025-07-07,8
+eb116e71-90cd-413b-ab28-3b3831dbdef5,58,Male,Surat,Clothing,6190.22,Cash,2024-11-14,8
+3103da54-d590-4f78-a3a3-4b85522490e9,50,Other,Delhi,Groceries,43906.09,Debit Card,2024-03-25,4
+efa67d3f-1963-4d2f-8b2a-e3028c227b4c,42,Female,Pune,Home Appliances,33357.87,Debit Card,2024-10-20,2
+d785075e-7c20-428a-b82e-fbaca4d5ceee,27,Male,Hyderabad,Beauty,38129.32,Net Banking,2025-11-12,4
+27ac239e-e60a-44fe-a61f-b9e24fc02da9,57,Male,Hyderabad,Home Appliances,38856.1,Debit Card,2025-01-28,8
+69e790be-8c07-4a0f-8ad7-976c8bfe418a,29,Female,Mumbai,Books,42979.43,Credit Card,2024-09-01,1
+ecd1066d-9f3a-406c-8ade-614838cda22d,50,Male,Bengaluru,Furniture,11517.14,Debit Card,2024-11-07,5
+fcea8b78-b334-4b9d-8b1e-47950ed450df,31,Male,Chennai,Electronics,984.02,Net Banking,2025-06-18,5
+d3b47599-746c-409f-a5ea-0b894026b3da,50,Female,Kolkata,Beauty,36744.91,Credit Card,2025-06-13,3
+9f407001-15e9-49ee-a37e-55843077383e,63,Other,Surat,Automobile,46047.63,Debit Card,2025-07-22,7
+73ba7fd9-11b4-4281-9a31-763eeadd538d,58,Other,Kolkata,Automobile,15109.99,Credit Card,2025-09-13,3
+553b20f2-ea8d-4a1b-a4d4-f336b8db5f28,38,Female,Delhi,Automobile,28154.51,Credit Card,2023-12-15,5
+57ea9c71-d615-486e-b59a-da1157e244c8,27,Female,Mumbai,Sports,739.18,Debit Card,2023-12-22,6
+5861f20c-5811-4b73-8bbc-c5485d94abad,41,Other,Delhi,Beauty,12694.63,Cash,2024-05-10,6
+c4a7f71b-a00d-44de-ad73-55d5eb801cd9,33,Male,Delhi,Furniture,24412.09,Credit Card,2024-06-24,9
+b11bd3be-dd4a-4c9b-9902-520a01ce96ee,53,Female,Chennai,Clothing,15326.6,Cash,2024-09-22,8
+3a1c2784-6798-4158-9d0d-6bb56611c89a,46,Female,Chennai,Clothing,8152.69,UPI,2025-04-27,9
+65984507-109f-40f7-9133-92af466bdeb8,32,Male,Kolkata,Automobile,20631.32,UPI,2024-12-28,5
+326662c7-5327-47f3-a38c-6de67044402a,55,Male,Hyderabad,Furniture,29276.69,Cash,2024-05-11,9
+bb631e58-71f1-4392-bc14-e6243d7fe01e,29,Female,Delhi,Clothing,17933.41,Debit Card,2025-10-19,8
+88e85173-8ef0-465d-957e-7076b2785986,30,Male,Kolkata,Sports,48054.19,Credit Card,2025-01-20,1
+0047fbca-48d8-4664-b01d-28cde67e822c,60,Other,Surat,Automobile,21222.06,Debit Card,2024-10-08,8
+deab0151-184f-4c46-846d-54827aef160f,22,Female,Pune,Toys,42888.35,Debit Card,2025-08-11,3
+37386ada-46dc-4dae-9b0b-ed12983cd6f8,22,Other,Hyderabad,Books,28208.73,Cash,2025-02-01,4
+405e368f-193b-4969-ac4e-44ef77a26e69,64,Female,Kolkata,Electronics,1599.12,Net Banking,2023-12-17,8
+cbf7da30-accd-4bea-8b48-33491ae9414b,30,Other,Delhi,Furniture,21177.5,Debit Card,2025-10-07,8
+8b4e330e-491c-4160-a4f7-b390b553c193,38,Male,Hyderabad,Clothing,45644.42,Net Banking,2025-04-05,7
+81c832bf-e8d4-40ea-85a9-6ac28cca2750,60,Other,Delhi,Electronics,33186.77,Cash,2025-10-22,9
+beffbc3f-d15c-463d-b829-beac12d08eae,42,Female,Pune,Home Appliances,46729.61,Cash,2023-12-10,7
+e5fec130-b889-448b-94cf-66584a148ef0,24,Other,Bengaluru,Automobile,613.36,UPI,2025-01-24,8
+e32c15d3-29fc-425a-8bda-4840aa7e0342,62,Female,Pune,Furniture,37126.65,Credit Card,2024-12-29,6
+f4bfa5b4-e69d-4539-813f-656721960c7f,33,Female,Pune,Toys,5893.7,Net Banking,2025-09-24,7
+11f4cb3e-dbd2-4970-8ef4-ab607e3298ec,40,Other,Hyderabad,Electronics,3834.93,Cash,2025-02-21,9
+ea9d92b7-7a9e-4aea-988a-3d221190d293,51,Female,Delhi,Clothing,8917.96,UPI,2024-12-09,7
+9aecf755-b501-469f-99a7-5fea991e5f49,55,Other,Kolkata,Groceries,40853.03,Cash,2024-01-14,8
+ff1284f0-ad9b-4f03-8a05-61726c2839f0,28,Male,Delhi,Electronics,48732.81,Credit Card,2025-02-27,2
+3246cafe-39e3-494b-8720-9cce55b853cc,62,Male,Bengaluru,Books,27984.77,UPI,2024-12-01,7
+7bc48c5d-6224-4415-9cb8-e40aed24eb30,63,Female,Delhi,Toys,37996.13,Cash,2025-04-29,2
+4723172f-cb83-4fb5-a03d-0595847b0519,20,Female,Delhi,Beauty,7306.15,Cash,2024-07-03,7
+625180c6-5b8e-4c97-846f-07fc447b886b,34,Male,Surat,Groceries,1767.84,Net Banking,2023-12-04,3
+1702ad65-accd-42ca-99e0-fc41d58ce2e3,50,Male,Hyderabad,Clothing,22882.91,Credit Card,2023-12-12,2
+8808caf0-8061-4f48-a943-2c676a63870d,23,Female,Hyderabad,Beauty,32427.87,UPI,2023-11-22,6
+6445afb2-73b9-4904-93a5-ea6008ddec45,43,Male,Mumbai,Beauty,23738.19,Debit Card,2024-01-14,6
+effe9d62-348c-4739-a947-124610740fef,21,Female,Hyderabad,Electronics,47852.64,Cash,2024-09-24,1
+bf680398-6cc0-4c47-afb9-69375499f95e,26,Male,Mumbai,Beauty,27735.75,UPI,2024-08-21,7
+13ccbf4a-abe0-4839-8a33-309d93756885,55,Female,Mumbai,Automobile,14868.95,UPI,2025-05-06,1
+83eb44c6-36b3-44ba-ab99-d6561a4f9d36,50,Male,Pune,Automobile,20107.48,Cash,2024-08-31,2
+ee1cdc51-52a3-415c-bcd4-8f6ffa2d08e6,44,Female,Bengaluru,Groceries,8878.54,Credit Card,2025-11-08,2
+b746e4fe-2c02-4461-89e9-69136cf6a00a,21,Female,Surat,Books,34540.58,Net Banking,2024-02-23,6
+a74a90b8-de99-4ddf-a966-e6c961d9785a,35,Female,Hyderabad,Books,27800.15,Cash,2025-01-17,6
+a728fb37-2e11-4268-9449-24041666aed7,39,Other,Kolkata,Home Appliances,13072.02,Net Banking,2024-12-29,5
+f7d42fa3-bcc0-48ab-909e-0b00d93822ee,46,Male,Bengaluru,Beauty,48666.15,Cash,2025-10-23,7
+abc562c7-d328-4eba-918f-8b26d60206f1,60,Other,Kolkata,Electronics,33787.78,UPI,2024-02-01,9
+af3204be-4c04-48bf-b79b-44dcc0c152b1,58,Male,Surat,Furniture,7692.12,Credit Card,2025-06-08,4
+42012971-b42d-4348-bc48-daba32ddf937,21,Other,Delhi,Sports,28140.88,Cash,2024-07-13,9
+08539558-d2b9-434d-a518-debc56732aaf,34,Male,Pune,Electronics,37724.05,UPI,2024-08-10,2
+5ccd373a-4b09-4f9e-9f74-d6cdc5dc7887,54,Male,Mumbai,Beauty,35147.14,Debit Card,2024-03-02,6
+a08424bb-9dec-4283-b54e-d45dd21f4e1f,29,Other,Surat,Books,45173.69,Net Banking,2025-02-02,1
+eab2abf8-ab8d-42ff-924b-720681a98822,23,Female,Chennai,Beauty,3971.18,UPI,2024-10-02,6
+46cc2292-2b4c-4119-82e3-c081941615ba,39,Female,Delhi,Furniture,8040.89,Net Banking,2023-11-17,7
+0389fc28-f135-496b-8d1c-af070828462b,46,Other,Kolkata,Groceries,37204.68,UPI,2024-01-05,7
+be7d871a-9530-4b7e-86ec-7dc598f7b070,26,Female,Pune,Automobile,8536.65,Net Banking,2024-09-05,8
+a42672bf-3ec6-442c-a372-17f805e149a9,58,Male,Hyderabad,Clothing,21261.57,Net Banking,2024-02-24,2
+e9945f15-50d9-4d4a-8223-fc84b8319c54,40,Female,Kolkata,Home Appliances,33911.24,Credit Card,2024-10-18,8
+36a78315-b3d2-4553-8eca-335feb5c7899,28,Female,Kolkata,Groceries,40930.68,Debit Card,2024-08-08,7
+51feb964-3b9f-4fcc-9de5-05d013a3867d,36,Male,Chennai,Furniture,33792.55,Net Banking,2024-12-08,1
+90521b8f-ebe2-4732-9669-70bd97ccb911,28,Other,Bengaluru,Beauty,37276.31,Debit Card,2024-06-14,1
+b1a4325a-4653-4791-aa2e-eb8cb374f938,43,Female,Bengaluru,Books,25184.04,Net Banking,2025-03-05,6
+1f515821-9a72-43f0-860c-012429f57e47,20,Male,Pune,Furniture,35203.21,UPI,2025-05-12,1
+5608069d-7745-4958-9b01-90e4ceedfa89,43,Female,Hyderabad,Books,11481.98,Net Banking,2024-10-25,8
+c60c7e37-7fb2-4cbf-9635-9926f2028387,49,Male,Delhi,Home Appliances,18848.43,UPI,2023-12-06,4
+22642bea-8919-46f6-be47-97d2a6a96bf5,29,Male,Delhi,Beauty,30811.82,Net Banking,2023-12-23,9
+38b24fe8-37db-4524-9858-f89d808c513a,26,Female,Delhi,Furniture,37457.35,UPI,2024-02-27,6
+2f3b6056-f7cf-462e-8f71-fadbae965932,31,Other,Surat,Groceries,30723.8,UPI,2023-12-25,4
+241a52fe-8b71-4616-a0ec-f9034f73c60c,34,Female,Kolkata,Furniture,39939.81,UPI,2024-05-11,1
+cc97c095-7454-4197-a3fe-b14f0b65acf0,57,Male,Bengaluru,Home Appliances,32776.21,Debit Card,2025-03-09,6
+f0a3eb81-8aba-481c-8e1d-0a614249ec7b,50,Male,Chennai,Toys,44636.19,Debit Card,2024-04-15,3
+0429dfd6-e4c4-47ab-8e4a-a8aa058b007d,62,Male,Hyderabad,Home Appliances,18610.86,Credit Card,2025-06-28,8
+9b4b2a0d-3697-4355-bbd6-bca4b3ced667,45,Male,Kolkata,Beauty,8536.44,Debit Card,2025-06-13,4
+5bd4c27f-f1d6-451b-b28d-8a71276cd158,56,Male,Surat,Furniture,45171.23,Credit Card,2023-12-01,8
+a036f135-eef3-449b-83f6-68d49f8b327a,30,Female,Mumbai,Sports,33902.09,Debit Card,2025-05-16,7
+7223fe39-c927-43e8-b559-f39234d434cd,19,Male,Hyderabad,Automobile,15362.85,Debit Card,2023-11-16,7
+86fc9c73-0d3b-481d-9bed-0aba9f71d5f8,61,Female,Kolkata,Groceries,2096.5,Debit Card,2025-03-24,3
+acf3aa97-4bc0-4b5d-a920-1e665a970812,46,Other,Chennai,Clothing,12153.3,Debit Card,2025-04-01,5
+fded4ae6-c24b-4e4b-9802-29bfb8ad432b,60,Male,Delhi,Automobile,20816.48,Cash,2024-05-04,6
+41ac9eec-4d0c-49d8-8b8e-9cf479b2671d,42,Other,Bengaluru,Clothing,45860.96,Cash,2025-10-30,2
+d727e992-85b9-46e7-b675-c09d184824fe,52,Other,Surat,Automobile,28831.52,Net Banking,2023-11-22,8
+9e70154b-91ce-4c47-808a-7e2fcfd97d31,32,Other,Delhi,Sports,36111.03,Cash,2024-07-28,1
+a21107e6-a4d4-414c-b3c1-287f55c5bf97,35,Other,Surat,Beauty,30116.8,Cash,2024-10-03,7
+8eb34a1f-61c4-4153-a111-7ce8cf955f3f,59,Female,Kolkata,Automobile,34224.0,UPI,2024-11-27,6
+17d38f5f-a5ce-4cdd-b14a-9204e721f307,58,Male,Kolkata,Automobile,18262.25,Credit Card,2024-08-13,1
+f85a4b8e-3c38-4aaa-b372-f8e8c8ab1778,44,Other,Chennai,Clothing,20568.69,Net Banking,2024-09-11,9
+f4ab2e98-b413-499e-82f7-c0bbaa74c607,53,Male,Mumbai,Home Appliances,40279.52,Cash,2025-05-24,8
+dafef99f-864e-4a21-b57a-d5e1295b7d58,21,Other,Delhi,Groceries,10883.06,Credit Card,2024-01-12,8
+7c85ea41-d8a3-4083-b45f-55022ad6a667,40,Male,Kolkata,Home Appliances,31194.47,Cash,2023-12-15,5
+56bd4f5e-9f96-43b6-897a-b2edb9488605,64,Female,Kolkata,Sports,43179.42,Debit Card,2024-09-10,5
+81281ea5-b198-4d4c-86cf-7917e2b3ddb8,57,Male,Kolkata,Sports,29970.76,Net Banking,2024-08-26,8
+92397db4-d1d6-4b89-85b4-2a1875ec43d1,53,Female,Delhi,Books,31113.97,UPI,2023-12-27,1
+497d957a-c595-4757-b507-fb4403c5a764,24,Female,Mumbai,Books,713.04,Net Banking,2025-03-06,6
+a1b53023-3c9e-499b-9644-cf5ccdabc550,32,Female,Delhi,Groceries,10134.6,Debit Card,2023-12-04,6
+ec85f6fe-6815-4f6b-9e9d-3c7ee1626b96,31,Female,Surat,Furniture,7774.81,Credit Card,2024-09-13,9
+62f27146-3469-4c24-a346-89d5c8117a15,45,Male,Bengaluru,Electronics,17929.14,Cash,2024-10-26,7
+1a9af148-77e9-4c0a-8136-9a5c7ef48ae5,37,Female,Mumbai,Toys,39390.7,UPI,2024-05-06,1
+0ed1dd37-2ed1-4e83-a144-370e967ae27a,50,Other,Surat,Toys,1565.97,Debit Card,2025-04-24,2
+47ade198-50eb-4bce-903a-2e3fcb52c894,64,Other,Pune,Electronics,23503.21,Credit Card,2023-12-01,6
+35373ab9-06da-4979-8601-e8dbb1b96852,62,Female,Chennai,Furniture,9106.47,Cash,2024-11-26,5
+d26ec1fd-73e7-44bc-9895-ce0d71c036f9,28,Male,Chennai,Groceries,461.31,Credit Card,2025-09-10,9
+86fe163d-7d87-41c3-ae79-c02a2fe97c31,39,Other,Mumbai,Toys,40452.57,Cash,2024-05-04,7
+169c6c38-3c39-4eff-bb64-7b509fd08840,26,Other,Hyderabad,Clothing,10523.39,Debit Card,2024-10-11,5
+5584fa1e-812a-482b-a9f4-b7e8cbb8d82b,56,Female,Bengaluru,Home Appliances,5188.4,UPI,2024-11-20,4
+cd645642-a030-4612-b28a-4f41badac7f1,22,Other,Mumbai,Clothing,13662.08,Debit Card,2025-06-25,1
+461ccbbe-324c-490a-9235-73bfc9578573,44,Other,Mumbai,Sports,15491.85,Net Banking,2024-08-16,4
+526e3d01-55cb-48b2-adef-8548493994a9,51,Other,Chennai,Toys,15924.72,Credit Card,2025-04-06,3
+49a42444-e42a-43df-8908-80849b64a3a1,29,Other,Hyderabad,Books,43202.96,Debit Card,2025-08-13,7
+32e7307c-e636-44da-a56c-dee0072b2eb5,58,Other,Mumbai,Electronics,41963.62,Debit Card,2025-02-03,8
+df839d24-ff16-4d48-b399-6d61cbe60e9f,36,Male,Pune,Automobile,43684.34,Net Banking,2025-01-28,8
+91a800e1-633a-461a-9b21-9ed3bf3d129d,51,Female,Kolkata,Sports,17618.74,UPI,2025-03-17,8
+4ae0e3dd-5dd1-4f02-aee1-eb6d8ec343fa,54,Other,Delhi,Toys,7956.92,Cash,2025-03-15,5
+a1d1f9a7-70d7-4f66-9c93-036d4b392400,18,Male,Hyderabad,Groceries,7918.69,Cash,2025-03-18,7
+ee002e05-2914-4e5b-9443-2cef7cd90253,22,Male,Delhi,Books,36076.22,UPI,2025-05-23,5
+e58741af-5b18-46b2-9116-3687d0731363,43,Male,Pune,Sports,30603.47,Debit Card,2024-02-07,2
+147cc3b9-8cff-403b-a98b-252eb4383cad,61,Other,Mumbai,Home Appliances,41983.43,UPI,2024-07-24,5
+f2d7be38-82f8-47b8-b9d3-b801a7634aa0,27,Other,Kolkata,Home Appliances,1569.7,Credit Card,2025-07-19,4
+fe6f6399-5999-4ea7-98af-6253116c50d5,19,Male,Surat,Toys,34944.59,Credit Card,2024-11-13,3
+80a17ab7-b098-4a22-a2b2-7acddcadef76,54,Other,Kolkata,Groceries,27399.06,Credit Card,2024-09-22,5
+64cec68c-326f-4373-bde4-9bca8de178f2,31,Female,Delhi,Home Appliances,44318.45,Credit Card,2024-09-12,8
+bd32771f-ed91-4d66-a2da-aa2396a7264a,24,Male,Pune,Beauty,28692.98,Net Banking,2025-08-11,6
+92547a16-ab18-4aa2-b007-c5779c775a6f,52,Female,Bengaluru,Automobile,44916.35,Debit Card,2025-05-02,7
+faa24f4e-5968-4231-b541-78e0e58de451,27,Male,Pune,Groceries,28372.07,UPI,2025-01-01,1
+8d5311bf-f45d-4a6c-863e-20ce23cd3821,27,Male,Surat,Electronics,42290.58,Net Banking,2024-11-07,8
+9279fdf9-9c23-4302-84ab-8976f5c4f8f3,62,Other,Surat,Furniture,25591.05,Cash,2025-08-03,1
+ad492fca-86e9-4ffd-bcec-b48e07229786,64,Female,Mumbai,Toys,36437.32,Debit Card,2025-01-22,6
+cc406b72-28bc-4e01-9524-d08150445f33,52,Female,Surat,Toys,3996.46,Cash,2023-11-15,8
+eb0bcc1d-0fb2-46c1-a7e0-718f1f68f79a,63,Female,Hyderabad,Sports,21743.62,UPI,2025-06-24,5
+04bedac2-20fd-487e-b7f8-8d56ebdbf632,58,Male,Bengaluru,Home Appliances,26554.93,UPI,2024-02-26,2
+92eba5b2-2a57-4686-a14e-4b467d1ad800,46,Other,Surat,Toys,36441.26,Net Banking,2025-09-10,9
+58ec8aaf-bbf7-405d-8296-612a445d3f16,62,Male,Delhi,Automobile,16240.92,Debit Card,2024-07-08,3
+2b28eadf-579a-4b8f-b170-0ec66a99942d,39,Female,Pune,Sports,32452.42,Net Banking,2024-08-16,7
+cc0e0a5b-1133-4a9e-a3f1-845eecf13a2f,40,Female,Delhi,Furniture,363.62,Net Banking,2024-04-14,1
+6518346b-7e17-448e-aba5-f8991d65544f,63,Female,Bengaluru,Home Appliances,24055.79,Credit Card,2025-06-16,6
+2301fe22-d25d-4dfa-9689-78577a7647b7,46,Female,Chennai,Books,1545.41,Credit Card,2025-10-27,8
+5f766205-b521-4fa4-b037-836fe6338f40,33,Male,Bengaluru,Beauty,34155.14,Credit Card,2025-07-12,8
+ce4e84d6-8bca-412b-9aab-cd8cb8fa3b69,36,Male,Surat,Books,5435.3,Credit Card,2024-10-13,8
+750871e9-c4ab-4d12-80e6-a6a9dd97dcd9,56,Other,Delhi,Beauty,19434.69,Net Banking,2024-07-12,3
+9ced841c-2a94-4a1a-820c-d788c7d6d096,27,Male,Hyderabad,Automobile,4190.62,Credit Card,2024-11-08,9
+18c13ec0-12fa-4aca-8357-405f11f9e082,27,Male,Mumbai,Books,11750.87,UPI,2025-01-04,9
+3e302961-8ddd-4758-9dff-633f0d9a333a,58,Female,Delhi,Toys,28497.08,Cash,2024-06-23,1
+03d42825-412a-40df-9fdb-9093b3bcf04b,46,Female,Surat,Toys,31589.51,Debit Card,2025-08-30,8
+d38e2647-ddb2-42d1-9b0d-0f274fba5428,61,Male,Pune,Electronics,23747.07,Debit Card,2025-10-25,9
+e7de626d-0e8d-4173-8bf7-d1630197878f,45,Female,Surat,Groceries,41741.66,UPI,2025-10-31,9
+169fe617-ef86-45b8-b7e1-6c611390cc54,50,Other,Delhi,Furniture,2674.64,Cash,2024-05-16,2
+108c7cea-8b30-4bfc-ab0a-a051fa922a00,64,Other,Kolkata,Clothing,23467.68,Debit Card,2024-02-25,8
+26cdaf89-57f2-4c90-a714-a361a2faf2fa,51,Male,Hyderabad,Home Appliances,31700.31,UPI,2025-07-19,8
+49e0f116-8761-4914-adb3-346771b832d5,21,Male,Hyderabad,Books,13918.75,Debit Card,2024-01-09,3
+da718ba4-3e2c-4109-ae59-971ab88d4afe,23,Male,Chennai,Automobile,35572.73,UPI,2025-10-25,1
+bf09e530-476c-4381-bb37-f150c0f66f1e,46,Female,Mumbai,Toys,14045.05,UPI,2024-01-31,9
+c750382a-5208-4bd6-ac57-fa644d3368b1,24,Female,Delhi,Toys,35588.16,Debit Card,2025-02-14,5
+6b04babb-20b9-4bfb-be6d-afb224522772,64,Female,Hyderabad,Sports,36690.06,Cash,2024-11-16,5
+2055ef29-e053-424c-af80-47ec1dc47bd8,59,Female,Delhi,Toys,11642.37,Net Banking,2024-04-29,1
+1b1b3f07-6b3d-49be-bc83-1891baf087be,26,Male,Pune,Furniture,44445.1,Cash,2025-03-25,2
+2920bcf2-5b18-403f-8de4-18b92d6d083f,25,Other,Pune,Automobile,8131.21,UPI,2024-05-10,8
+b0b8bb9d-3f95-4b35-85bc-eed5cb4a6306,32,Male,Pune,Groceries,37810.96,Net Banking,2024-06-14,7
+206586ec-0dd6-4b24-8728-671d2d0c436e,33,Male,Delhi,Groceries,49284.3,Debit Card,2025-01-19,3
+bc365def-466c-4b15-9169-2bb70ec695b0,39,Male,Hyderabad,Automobile,28497.75,UPI,2023-11-24,7
+9e3b3aeb-d231-4eb4-8705-ade8e6f702f9,41,Other,Pune,Automobile,17473.38,Debit Card,2025-08-25,4
+558007b8-9f9f-4499-9355-3b27f38af64f,45,Other,Pune,Toys,6809.37,Net Banking,2025-01-14,4
+33fdcdfe-680b-4c6f-bd6e-18059c1feb02,21,Other,Surat,Groceries,46374.57,Debit Card,2024-07-19,2
+3aa5085e-e4d3-4eb8-bdf5-4876be15ecee,57,Other,Chennai,Electronics,5786.71,Net Banking,2024-08-20,2
+f0e1d4bb-4f2b-4df6-90bb-cacb288aa622,43,Male,Kolkata,Home Appliances,21522.95,Net Banking,2024-03-22,3
+59277924-caf4-4964-9a94-781e6f6097f8,44,Other,Chennai,Electronics,29249.91,Debit Card,2025-03-21,4
+7bdeaacf-7a0b-4736-9594-11d7c90b2f80,46,Other,Kolkata,Electronics,43482.37,Net Banking,2024-01-09,3
+cd93a20d-4aec-4d82-bc01-0ff3dc3df211,33,Other,Kolkata,Automobile,21757.98,Cash,2023-12-07,9
+7df28d3f-68d7-44b0-8cb5-207fbf78f5a2,38,Male,Chennai,Electronics,942.56,Cash,2025-07-20,2
+8b389510-386e-4ce0-887e-efea47705a76,37,Other,Surat,Electronics,23099.71,Credit Card,2024-07-06,8
+8db3470b-5404-46cb-9ca6-624294b96b70,57,Female,Kolkata,Books,46743.84,Net Banking,2024-12-01,6
+b4669bb9-f6d8-4425-92e3-b4d5deb31735,47,Other,Surat,Groceries,11171.33,Net Banking,2024-07-20,9
+cb8a0484-8f74-4fbc-a4e3-fadf9a7c75b4,37,Other,Chennai,Clothing,27679.71,Net Banking,2024-07-20,4
+f16f51eb-1072-45ff-97a7-ee7dc7f75c93,18,Other,Delhi,Furniture,4855.77,Credit Card,2024-10-20,6
+2e200d4b-eec5-4aaa-a2d0-0e93051e0dce,34,Female,Delhi,Home Appliances,2668.47,Net Banking,2024-01-20,8
+40053d0f-555e-4150-9a0f-e68059d831eb,58,Other,Chennai,Toys,32204.71,Cash,2025-02-13,9
+517ae6f2-92f4-4ff3-bef7-212f61b8fba1,51,Female,Surat,Books,1287.07,Debit Card,2025-01-04,4
+0693bd8d-70c9-438b-9665-3af854e5e61c,39,Female,Surat,Clothing,351.33,Cash,2024-10-24,4
+7295d0be-7153-4b0c-9137-56bfe61c4922,63,Female,Surat,Toys,21435.45,Credit Card,2024-12-05,9
+03713c23-8e68-46a6-8c8c-bd8ea62c7eca,25,Male,Delhi,Furniture,11997.06,UPI,2024-03-10,9
+4ab8bce6-a8b3-4d6f-a749-4d4a08d5ffd9,24,Female,Kolkata,Books,14696.18,Credit Card,2025-04-16,7
+935555a9-7329-4582-adb9-1f5839ee9abe,36,Male,Delhi,Toys,6713.0,UPI,2024-03-24,5
+e7cbfafd-6b5c-4ff9-923f-0befeeabf779,40,Female,Chennai,Groceries,14697.73,Net Banking,2024-06-13,6
+d293b95a-c577-45fe-a622-ce4dbca46de1,29,Other,Pune,Electronics,8949.34,Net Banking,2024-11-19,5
+52d1292d-b74e-4b63-a21c-dd4b5291e63f,56,Male,Delhi,Automobile,41698.22,Net Banking,2025-06-25,8
+d4ab6d24-cfb7-4ece-b5ed-0f7a24744c1c,22,Other,Pune,Toys,17750.64,UPI,2023-11-30,7
+302c387b-9c34-40a5-91e2-c433b35e4de8,56,Male,Hyderabad,Automobile,6577.76,UPI,2024-11-15,8
+69390390-2a0f-44bd-9806-587b318e49f2,37,Male,Mumbai,Clothing,30310.08,UPI,2024-11-01,8
+d6749aa9-8121-4bb7-966a-76d0b32a9595,42,Female,Bengaluru,Beauty,6046.72,Cash,2025-01-13,9
+f67500d5-211f-4485-9fda-221812f375a1,50,Other,Surat,Toys,48087.18,UPI,2024-12-22,7
+0dec66db-1658-4f30-85dc-acf4ba10c653,46,Male,Chennai,Beauty,22480.32,Net Banking,2024-09-17,7
+28348792-2048-49e3-96dc-de1656b8d6f6,50,Other,Bengaluru,Furniture,6116.97,UPI,2025-02-13,3
+6ec0c910-0b8d-4795-9d4f-0ce4d3e4529c,52,Female,Bengaluru,Clothing,44297.41,UPI,2024-06-23,5
+602b457f-604b-4609-bd73-4599d2f5f793,62,Other,Kolkata,Electronics,46752.2,Cash,2025-02-06,6
+6629a0ed-5e8b-44a2-8b12-df14a8608f37,55,Other,Mumbai,Groceries,35553.99,Credit Card,2025-10-08,9
+9f72f315-4fab-47e8-aa55-2d8846408e34,49,Other,Kolkata,Clothing,4880.21,Net Banking,2024-04-04,5
+81727313-79f6-4477-8496-4b66380635bd,31,Other,Kolkata,Furniture,3062.82,Credit Card,2024-11-21,1
+fa5d5ef9-7c0d-4db8-97e3-792efd1e904d,41,Male,Delhi,Beauty,11999.45,Debit Card,2025-08-24,6
+4c0a5461-e83e-48a8-8ecb-c184bd9d85b5,38,Other,Hyderabad,Furniture,25544.19,Net Banking,2024-12-11,9
+05af38dd-16e4-4076-a68e-673f0966cffd,57,Female,Delhi,Groceries,21075.3,UPI,2024-02-29,6
+48d039ad-4103-408e-a281-7fc56fb2ac34,26,Other,Chennai,Groceries,21046.42,Cash,2024-05-28,8
+fb4fbd1e-b6c1-4b21-a4f0-f5fde3afb60e,57,Male,Pune,Books,9900.5,Credit Card,2024-11-24,8
+57ab2a43-f95f-41f3-a596-5e434301c31c,49,Male,Hyderabad,Toys,34007.11,Cash,2024-10-25,6
+0d90a771-caa7-48fb-a83d-96123d752897,41,Female,Hyderabad,Beauty,34688.22,Cash,2024-03-25,5
+203db602-0531-401e-870d-2482457e2d2e,52,Female,Chennai,Automobile,34635.5,Debit Card,2025-04-06,8
+15d6b10e-6a0d-42c9-86a7-189a9a98b956,45,Female,Mumbai,Automobile,13592.43,Debit Card,2024-10-05,8
+d2fd7672-2159-4ec9-9f2d-78e66e9f1e78,50,Female,Hyderabad,Electronics,32361.8,Debit Card,2024-11-05,5
+22a9da38-9f66-450e-b128-c1f9670e477b,45,Male,Bengaluru,Beauty,10646.28,Credit Card,2025-09-23,5
+6b9af857-8b77-486b-b878-2aa3c1260e15,58,Female,Surat,Furniture,1010.46,UPI,2024-09-21,9
+d83b0905-406c-4b28-a2fa-99167d0bcb34,60,Other,Kolkata,Furniture,2293.13,UPI,2025-08-04,6
+49227b7e-f2f0-416c-9ef7-602f25ed2718,43,Other,Chennai,Toys,32472.85,Net Banking,2024-07-05,8
+907b5205-b823-48e4-ba08-1cf68d5d8b07,62,Male,Hyderabad,Toys,38932.56,Credit Card,2025-05-21,2
+ffafc6e9-5a95-4181-b4c6-e553ceb88776,52,Female,Hyderabad,Automobile,25492.81,Credit Card,2025-03-31,9
+d684d45d-3c15-4cbd-a279-60b769cd0a0c,53,Other,Mumbai,Books,12862.57,UPI,2024-04-17,9
+7430980d-c044-47f9-9769-2184a186a149,34,Other,Hyderabad,Electronics,3193.97,UPI,2024-09-16,8
+cfae4004-a1b3-4821-959d-ac88e215741d,41,Other,Chennai,Sports,25544.29,Cash,2024-03-13,8
+39abf124-f2f2-4400-b446-5a8c4132f3de,31,Other,Bengaluru,Automobile,39986.67,Debit Card,2023-12-15,5
+08a96b3f-35a5-4708-9191-23407d40df24,62,Other,Kolkata,Sports,25998.46,Net Banking,2025-07-12,6
+86230b76-3547-4484-a03b-285c3628d12b,33,Male,Surat,Groceries,28566.38,UPI,2025-08-30,6
+de2c9734-a971-4884-85a3-ed47470fca97,34,Other,Surat,Groceries,3927.74,Credit Card,2025-03-28,1
+e98a3e7b-8e32-47c1-aef4-cacea39a567e,53,Female,Mumbai,Clothing,22243.47,UPI,2023-11-23,2
+7d9aad05-0627-400c-962e-9cfa551a29b1,32,Other,Bengaluru,Books,43330.4,Cash,2023-12-15,8
+39855205-9c06-42b6-a746-ea28f25351f3,46,Other,Hyderabad,Beauty,34176.06,UPI,2024-02-28,3
+58e05aa3-9fb0-4ead-9604-e724e2d205ae,52,Other,Chennai,Sports,28998.36,UPI,2024-01-14,7
+21ceee84-43f4-453f-a440-bb89e877456b,41,Male,Pune,Groceries,11471.73,Cash,2025-06-02,7
+9c45f253-02c1-433f-bab7-608616f95ee6,38,Other,Kolkata,Furniture,6048.23,UPI,2025-06-27,5
+34ae6968-719b-4a44-a29e-f0b92cab2f0a,27,Other,Bengaluru,Sports,26693.96,Debit Card,2024-06-18,5
+ad85edcc-bae3-4a4e-98c3-3672f958a6ac,26,Other,Hyderabad,Toys,12235.22,Credit Card,2025-09-06,7
+07fb62d3-adaf-4e5f-aa53-22deed96467b,24,Female,Bengaluru,Books,29568.04,Net Banking,2024-03-13,1
+fa08deef-8791-4dec-88df-c8d29d68ed21,62,Female,Kolkata,Clothing,39630.2,Net Banking,2024-12-14,2
+c6fa51b6-f42d-4314-8bbf-287417f08300,19,Other,Kolkata,Toys,28054.0,Net Banking,2025-02-13,1
+1f361bd5-1582-4966-bff5-1bd1945d0190,53,Other,Bengaluru,Furniture,9838.68,Cash,2025-05-07,9
+a27b7ee4-5d37-4f96-b953-8949e6e900a4,59,Male,Hyderabad,Clothing,48892.28,UPI,2024-03-30,8
+a9f3fc02-20ff-478b-99df-85a90bc71748,33,Female,Hyderabad,Beauty,22927.92,Net Banking,2025-11-01,2
+63273fbe-5a61-401e-998a-70b2951e710f,23,Male,Mumbai,Home Appliances,29257.72,Net Banking,2025-09-01,2
+faff4a37-79b3-4f2b-b2b0-466240e6515c,42,Female,Chennai,Toys,34634.1,Cash,2025-04-05,6
+83829df4-b92d-4873-a5cb-576228fd33c4,62,Male,Bengaluru,Beauty,8782.45,Net Banking,2025-02-26,9
+f4fb818d-82b2-4d2e-a7cc-22744e7935cd,18,Male,Kolkata,Home Appliances,33126.03,UPI,2024-09-11,2
+163c7fff-6120-43d9-8cf5-41f1d2b9a618,59,Other,Surat,Clothing,30518.59,Cash,2024-08-24,1
+ea8241d2-1201-4e6d-bb1c-eaf368f1231a,59,Male,Delhi,Sports,20010.47,Cash,2023-11-27,6
+76356dfb-1a46-4117-aea4-4a3f0c348206,51,Male,Hyderabad,Groceries,9404.23,Debit Card,2025-10-13,5
+e1205ca7-86e1-4171-bfee-bd5aaf2ab019,58,Female,Bengaluru,Furniture,15623.98,Debit Card,2024-06-16,7
+f3cf9be5-9980-43fb-b3a9-329e72a76403,40,Other,Chennai,Automobile,13812.44,Cash,2024-02-22,5
+c565f34c-73a5-4655-848e-5810f4715f04,30,Male,Surat,Sports,36151.34,UPI,2024-08-11,2
+b4c1bb21-1d07-4e8f-857d-6ce5441b73b6,22,Male,Mumbai,Home Appliances,29419.49,UPI,2024-12-05,2
+3bd1c849-1fb9-474a-827f-57707a000455,61,Female,Mumbai,Sports,16040.15,UPI,2023-12-18,3
+895c7e22-3907-41b9-9a8e-21f4f5e55494,50,Female,Hyderabad,Books,45660.01,Net Banking,2024-03-19,8
+1d5c7385-501b-45d7-b0e0-f53e1532211f,18,Male,Hyderabad,Books,33890.73,Cash,2024-01-28,9
+80e794c0-c05c-4e76-81f4-c999718f97d9,30,Other,Chennai,Sports,38988.53,Credit Card,2025-05-07,1
+c68db14e-2915-4db1-ae76-695cb3825fad,32,Male,Bengaluru,Groceries,26795.27,Credit Card,2025-04-27,4
+d7416762-31a4-4bce-83ed-417924c644ff,51,Female,Hyderabad,Furniture,22648.42,Net Banking,2024-08-05,6
+4918d585-072f-4042-aece-cba41d2bbebc,29,Other,Mumbai,Electronics,12302.9,UPI,2025-02-23,1
+0b00b934-38f8-4c91-9fe8-f0cf2caa20d2,36,Female,Pune,Books,31115.41,Net Banking,2025-06-29,7
+40df74d8-7e7a-41e5-b208-5ede920b9a0a,24,Male,Kolkata,Furniture,26414.38,Debit Card,2025-01-22,8
+ce2983aa-2a46-4dc1-bfd5-59b6f1c631ef,52,Other,Hyderabad,Furniture,46304.71,Net Banking,2024-04-13,7
+2f75ab59-1830-4eee-9533-d0b095a9487a,25,Female,Kolkata,Toys,21657.51,Debit Card,2024-03-15,8
+207b10d8-0d82-4b66-bb89-a49eed0d6c87,46,Female,Bengaluru,Groceries,27913.25,Credit Card,2025-11-12,6
+976dbe3a-5f69-4ff0-9eb5-aac4b5e7c271,27,Female,Delhi,Books,46465.04,Cash,2025-02-03,9
+9b1acb76-0f1e-4670-bb26-7073eb17f759,56,Male,Delhi,Automobile,42335.89,Net Banking,2024-11-18,3
+251dc11e-f924-4aa1-916e-a42eb73a277b,57,Other,Chennai,Clothing,28649.09,Net Banking,2024-03-29,3
+d926bb53-9136-441e-ae97-dd4f39281d9a,44,Other,Kolkata,Automobile,8164.55,Debit Card,2024-09-27,5
+9a896978-7f90-4b96-8816-9f27f7f82335,32,Female,Kolkata,Toys,45475.66,UPI,2025-03-31,9
+494a50d7-dd20-457e-90dd-e3bb951a7d44,33,Other,Hyderabad,Beauty,34467.08,Cash,2024-12-22,7
+5bdb92fd-60dd-4ba6-bcf4-22674b6b92ee,28,Other,Kolkata,Groceries,5741.79,Debit Card,2024-07-15,5
+4a2fe722-9cf7-40ab-a086-895f83bec3cc,49,Female,Hyderabad,Clothing,29407.02,Credit Card,2023-12-26,6
+58412819-b9ce-4bdd-8e42-8c453232859b,37,Male,Bengaluru,Furniture,103.56,Debit Card,2024-09-20,3
+50dd3de7-c3e3-40d1-91a8-4c32d0877fdd,33,Female,Kolkata,Groceries,35589.17,Credit Card,2023-12-26,8
+0a12b5b4-f370-4188-99d2-aba2874a9f43,40,Male,Chennai,Sports,36925.54,Credit Card,2024-01-11,2
+729edd93-03c7-446f-8831-f68a11e6d6c0,47,Female,Chennai,Beauty,15546.29,Credit Card,2023-12-17,6
+27b7663c-bef6-474d-b102-22dfe534f94c,56,Other,Delhi,Books,31700.98,Debit Card,2024-01-11,3
+5a66bd0a-00af-48b7-a592-c7b5f5373a49,48,Other,Bengaluru,Clothing,3352.32,UPI,2024-08-22,4
+3bf9ac19-f111-42c7-9e83-f7c7d3afe18a,53,Other,Delhi,Books,30736.1,UPI,2024-06-06,2
+2d4ea8d0-ba8e-40ab-8a32-cffbbc794a59,46,Other,Kolkata,Sports,15576.25,Cash,2024-12-30,6
+f1f2c4fd-62dc-4d2a-a383-bd97de9f5bd5,24,Other,Pune,Beauty,36963.08,Cash,2025-11-03,5
+6af7cddb-4fd4-4faf-b207-79aadbc5e7af,37,Female,Chennai,Beauty,30465.55,Debit Card,2024-04-16,4
+f27e3ea5-7dce-4b0c-b616-7d3998f09052,22,Male,Kolkata,Books,38318.41,Credit Card,2025-05-01,1
+299f6cf3-a494-445c-bf3c-df15faed16ad,34,Female,Mumbai,Books,42297.58,Debit Card,2024-05-17,2
+65a1fcae-2e3a-4d88-9018-9af663dd5254,45,Other,Bengaluru,Automobile,18936.4,Credit Card,2025-04-13,4
+dab6b9f3-fecd-4539-b08f-ae27db5116e6,29,Female,Surat,Automobile,32561.89,Credit Card,2024-12-13,7
+defd7df5-66d5-4a50-97bb-616bdf25b042,21,Female,Hyderabad,Toys,7811.75,Cash,2025-10-20,2
+7ee5cc26-7fcf-4752-a65c-ea23ba800add,53,Male,Chennai,Groceries,9017.5,UPI,2024-06-24,2
+d9536f4d-5c18-450d-9bbe-bc5050582b26,33,Female,Kolkata,Toys,3543.72,Cash,2024-04-12,4
+60d366b3-448d-445b-8b18-dbcc24da5b7a,28,Male,Kolkata,Toys,20381.87,UPI,2024-03-20,2
+b728d821-e736-4bc2-952b-98c2f2e7cc3d,21,Female,Kolkata,Books,9590.72,UPI,2025-09-13,1
+dc8df754-c6f7-43a1-b2c4-63d006c6fe5e,52,Other,Kolkata,Furniture,1906.79,UPI,2024-06-25,5
+0999ca36-35ab-40e8-b150-efff4873cee4,24,Female,Bengaluru,Toys,47779.59,UPI,2025-09-10,4
+d784813e-6953-4bc6-98e7-4a511a33843d,19,Other,Mumbai,Clothing,518.4,Credit Card,2025-05-13,7
+d6f67333-46b0-4469-8367-f146d49d7376,49,Other,Bengaluru,Automobile,29013.96,Cash,2025-04-30,1
+3b78250c-8fc0-41eb-b05c-2a081a4753ba,55,Male,Pune,Furniture,5007.62,Debit Card,2024-05-20,8
+4febe20a-155d-432e-a678-ee31809faaf7,48,Other,Delhi,Automobile,23120.57,Credit Card,2025-05-01,1
+846e4c11-d2ed-4f20-a988-9e3ff1e2943e,46,Female,Mumbai,Furniture,15904.18,Cash,2024-09-07,3
+5c073271-39b8-46cf-9c80-c4e33d6ca4b3,22,Female,Delhi,Groceries,15889.61,Credit Card,2023-11-26,7
+f6ea3b6e-11a0-4658-9d39-d6b604546528,54,Male,Hyderabad,Clothing,38645.39,Credit Card,2025-01-23,3
+ecd9620e-589d-45df-9a23-3d8fada52f01,44,Other,Pune,Clothing,48658.71,Debit Card,2024-10-10,9
+91fd2e17-e265-4ec8-8c54-ce7269f558a0,25,Male,Mumbai,Toys,2348.12,Cash,2025-06-18,4
+2cf23a6b-1e55-4639-b964-d29dcb1a2742,42,Other,Mumbai,Books,7321.65,Cash,2023-12-23,8
+57cd5b86-5d85-4440-811e-6f35b4ed1703,19,Male,Delhi,Books,33393.51,UPI,2023-12-19,2
+ea6aac67-83fc-45b8-829c-d51b51efdd28,36,Female,Hyderabad,Toys,38688.93,Net Banking,2024-01-13,4
+e97205a4-6911-449d-965e-8689621ee54f,38,Female,Surat,Toys,41466.59,UPI,2024-06-12,5
+43d2f5c6-ce8c-4194-b5a0-8df94ef59f3b,63,Other,Hyderabad,Electronics,37634.65,Net Banking,2025-03-10,1
+809f2cab-818c-476d-b4c9-38101333b80d,19,Male,Delhi,Sports,20437.34,Credit Card,2025-02-15,1
+f2c66e3c-4a5f-4882-a3d2-291b344bdce7,28,Other,Pune,Groceries,49321.06,Credit Card,2025-07-17,4
+628a8754-a58d-474f-bdfc-b4b7542c7321,18,Other,Surat,Electronics,46365.12,Debit Card,2024-02-29,5
+8dfc7b0e-7eb7-4ab5-ad26-4160c6529a03,45,Male,Delhi,Automobile,42504.16,Credit Card,2025-02-23,2
+29aa4f04-eac9-44b4-8561-7d3f5b798b8a,24,Male,Surat,Clothing,27917.75,Debit Card,2024-09-30,5
+aff9ff9d-f9f1-47fb-a370-5e9231f73adc,63,Male,Chennai,Books,19460.55,Credit Card,2025-01-09,5
+dae0e96e-d193-4615-b861-fe2d21d648bb,45,Other,Bengaluru,Electronics,42707.18,Cash,2024-05-05,4
+a792a5e5-0783-4aab-bcc9-3871057e0f1a,47,Male,Hyderabad,Groceries,25981.85,Credit Card,2024-11-29,1
+e9481f19-bc58-44e3-b393-328eb94162bf,19,Male,Mumbai,Books,8207.86,Cash,2025-05-03,9
+41d398e8-faee-49f2-9889-50279ce62858,39,Other,Pune,Clothing,25238.45,Net Banking,2024-08-21,2
+15d41cea-c657-4ead-98f5-396a4344b0c2,24,Male,Delhi,Clothing,39242.53,Debit Card,2025-05-22,5
+c48151cb-0c99-4aef-924b-ab73db308717,33,Other,Chennai,Electronics,2529.0,Debit Card,2024-03-13,4
+720d16ad-5a2e-449b-b4a8-d2f48b645f8c,30,Other,Mumbai,Groceries,47680.15,Credit Card,2023-12-10,8
+3662efc6-8c63-4cc7-bbeb-65ddda1987a7,32,Male,Kolkata,Books,13356.33,Debit Card,2025-10-13,5
+3bcca82f-cf50-420f-b98b-e3691954ad97,53,Male,Pune,Furniture,37571.36,Net Banking,2024-08-15,1
+36cacba5-fa76-4795-89d4-864cd7b9a5e2,53,Other,Hyderabad,Electronics,31236.01,Net Banking,2024-07-08,5
+7ee1b537-019b-4fcd-babd-161295de4b56,48,Other,Delhi,Toys,34007.4,Cash,2024-05-29,7
+2b54d35c-1445-402e-a00c-a46f51d4ccaf,53,Male,Chennai,Books,1999.02,UPI,2024-05-26,4
+8eef3785-6057-470f-a08b-f36fb0f30278,42,Male,Mumbai,Beauty,49513.5,Net Banking,2023-12-17,8
+ea1339f9-c97d-4e61-9ae0-264822671c50,21,Male,Bengaluru,Home Appliances,2663.19,Credit Card,2024-12-12,2
+a72484fa-7ef9-4f34-ad68-1f9c8fa505c8,31,Other,Hyderabad,Clothing,22844.31,UPI,2024-11-11,4
+2b4d7da5-953f-4e10-96a3-3392fe254023,30,Other,Mumbai,Toys,44539.73,Cash,2023-12-08,7
+8ae4ce4a-439d-4dbb-a14c-8c270b63669d,31,Other,Bengaluru,Groceries,7278.85,Debit Card,2025-06-19,5
+94c1eb9f-213b-4423-a53c-4ff313ccd012,63,Other,Bengaluru,Home Appliances,47937.4,Net Banking,2025-10-21,7
+3ea3450d-aa13-4455-9180-773630c464ce,41,Female,Delhi,Electronics,38046.62,Cash,2023-12-19,7
+49a8b58d-3ac8-44a0-a183-bc0a3691e298,19,Female,Pune,Sports,11459.02,Net Banking,2024-02-20,4
+c1c2a378-4930-4327-8023-34d411068de2,54,Male,Kolkata,Books,38000.7,Net Banking,2024-10-15,6
+3cd99b02-0dcd-4bb0-86b5-d938175a1271,33,Female,Bengaluru,Automobile,1744.43,Debit Card,2023-12-04,1
+b859a466-1cfd-476b-8036-1db74abcb7b2,23,Other,Mumbai,Books,26792.48,Credit Card,2025-07-30,7
+3125b376-d1c8-4860-b0f0-374c096e77e6,21,Male,Chennai,Home Appliances,48551.47,Debit Card,2025-06-18,5
+60934abd-fa8a-4582-b7fa-5c2e86bab60a,40,Other,Delhi,Furniture,9184.83,Debit Card,2024-10-07,6
+0f7d9596-9921-4360-a89a-1dbfde77473e,49,Other,Surat,Toys,45592.45,Cash,2025-09-03,6
+39beb6ab-8142-423c-91e7-f421d104127d,61,Female,Surat,Electronics,28408.37,UPI,2025-06-04,5
+5fea6c4b-e66c-495b-b0fe-52da588bdc41,59,Female,Delhi,Clothing,25651.33,Cash,2024-01-20,3
+4bd8bc6d-0b85-45ea-8190-2c878bf0d4bc,47,Female,Chennai,Furniture,35029.22,UPI,2025-06-26,4
+14dbd002-1969-4abb-b24b-54cf3555140e,30,Male,Hyderabad,Groceries,44817.49,UPI,2025-05-03,1
+91618e4e-0314-48e2-bef3-1271b73bf707,45,Other,Pune,Beauty,32826.9,Debit Card,2024-06-24,1
+54440dc1-efc5-4899-8af6-bbf178c57a1e,30,Female,Chennai,Automobile,26513.28,UPI,2024-05-26,7
+cc3fa56e-0957-4b0b-a948-7e07ccb4b36b,44,Other,Delhi,Automobile,22786.38,Cash,2024-08-03,9
+12f309b5-354d-48ab-8b79-887e7490e68c,18,Female,Mumbai,Sports,26656.47,Credit Card,2024-12-09,9
+f1f48152-f266-43fe-af1d-869034bb4609,25,Male,Hyderabad,Electronics,42656.76,UPI,2024-11-16,4
+ff11be63-589c-4e9e-95ee-3136b32ac2eb,21,Female,Delhi,Home Appliances,26484.1,Net Banking,2024-01-28,5
+2340ece9-9483-4b48-ab2e-59d492419fde,44,Other,Hyderabad,Sports,2265.03,UPI,2024-12-05,1
+2bff65c1-1d67-4ae9-8704-678535a597f5,52,Other,Pune,Books,17573.89,Net Banking,2024-10-13,3
+bab3a649-01e3-4c6c-92e8-4409571d7834,25,Other,Kolkata,Furniture,12403.59,Debit Card,2024-02-19,4
+605f2625-3740-48a6-9f85-4b1b1a485bfa,56,Other,Bengaluru,Beauty,15800.25,Net Banking,2024-03-05,2
+238a9508-f03d-472f-bb85-39024ad4d31b,30,Male,Delhi,Automobile,38976.26,Net Banking,2025-07-19,3
+d79f947d-59ac-4d27-8e4a-a1f8b6f48470,50,Female,Bengaluru,Home Appliances,39868.99,Debit Card,2025-02-04,5
+f1c02513-bf67-4bf9-9b13-f15e30c817ea,60,Other,Delhi,Beauty,23128.87,Cash,2025-05-24,6
+c2e40f86-7b78-4bf0-85ec-7dcf9e3b7254,63,Male,Mumbai,Books,22005.77,Credit Card,2025-06-25,9
+1151b512-fcbe-4364-8b48-08aa542c0ce4,43,Male,Surat,Sports,29711.5,Debit Card,2024-08-10,3
+a8a64f73-bb43-4bd5-8d78-1f8ec56b02f3,61,Male,Kolkata,Automobile,48199.0,Net Banking,2025-04-09,3
+1b17feb1-478a-48d2-ab74-9ef449e5e35c,36,Other,Chennai,Groceries,34289.82,UPI,2025-06-24,8
+5b773e67-d425-4782-bfcf-194fc7971835,18,Male,Surat,Toys,33094.54,Credit Card,2025-07-07,9
+2ab12dff-0e38-4b4b-b012-09d01f9be388,52,Other,Pune,Sports,43292.32,Debit Card,2024-07-13,5
+322f7aa8-d352-4a77-aead-8b1caeb682fd,43,Male,Hyderabad,Groceries,38187.76,Credit Card,2025-01-20,1
+c4f88684-499c-46d9-975b-4b4fcc7e8c35,59,Other,Surat,Furniture,17612.17,Cash,2024-12-21,6
+8259b8c4-ed26-422a-a057-655a17ab76e8,63,Male,Kolkata,Sports,36949.16,UPI,2024-05-14,1
+aee6aef6-d92e-461b-a4dc-38b9e6c8624e,54,Male,Hyderabad,Toys,6010.72,Net Banking,2024-04-27,9
+0ee45f1f-90e8-49cf-b88f-c4efc0dd48b1,32,Female,Chennai,Clothing,34985.17,Cash,2024-04-11,7
+2f2ba566-d0d1-4203-8053-0925dd2f42cb,30,Female,Pune,Sports,32110.15,Credit Card,2025-10-27,5
+7a55ff1b-71b5-4ffe-a012-0feecee49787,48,Female,Kolkata,Furniture,32029.03,Net Banking,2025-09-11,4
+93ff676d-2221-4984-8c97-716497e5a561,46,Male,Surat,Books,41171.24,UPI,2023-11-14,2
+5efdc69d-b36f-4b8d-b16a-97c939340128,48,Other,Bengaluru,Beauty,36881.29,Credit Card,2025-04-13,7
+1f39bc9a-98cb-472b-a648-d74bf34fd9c7,39,Female,Hyderabad,Clothing,17087.23,Credit Card,2024-03-21,8
+a0d55dec-e987-406f-98af-d1ce6f760d63,32,Male,Pune,Furniture,15694.76,Debit Card,2025-01-07,1
+55c4754a-e60a-4d4c-9817-0eed021eb9cb,27,Other,Surat,Books,39172.64,UPI,2024-07-30,2
+15ef0f85-122d-42d9-b940-065781fc2b12,26,Other,Chennai,Books,2560.52,UPI,2024-06-11,3
+67dfd15d-3933-47ef-9cea-3c61ced2f0e4,35,Other,Mumbai,Clothing,11992.08,Credit Card,2025-05-15,6
+97e74d05-83d5-426c-9297-2e2035098381,39,Other,Delhi,Home Appliances,12806.44,Net Banking,2024-04-18,3
+6b783350-52dd-4160-9041-083b93853d20,28,Female,Delhi,Beauty,47038.27,UPI,2024-02-12,5
+e37b68d2-fae2-4853-b4bf-48db7091a951,42,Female,Delhi,Automobile,12871.1,UPI,2025-08-11,1
+9dd4e127-6473-4465-bf07-a2ded1d52b8b,28,Female,Hyderabad,Furniture,28725.1,Debit Card,2024-03-14,7
+b3454752-c7b2-4aa9-8b6b-e801fe7cd5b0,28,Male,Kolkata,Books,11887.24,UPI,2024-01-26,9
+d7547672-f8b2-4f5a-b059-98839edd0772,51,Other,Pune,Electronics,15220.19,Net Banking,2025-09-30,5
+b90421c4-bfb4-464c-a7e3-038edab90a34,39,Other,Mumbai,Groceries,32040.47,Debit Card,2024-05-23,3
+8e50d347-61d5-480d-a752-4bc5a0fe14b6,58,Female,Hyderabad,Toys,29947.61,Net Banking,2025-08-13,1
+1a586306-a186-41ea-9a53-bf9cc6c9258c,30,Male,Mumbai,Home Appliances,20737.01,UPI,2024-05-21,9
+c6cc0ffb-d50b-404f-a6d1-7df08b03fc0f,25,Female,Delhi,Sports,39751.06,Net Banking,2025-07-12,3
+c5200792-34e2-4346-b767-9c652557f533,57,Other,Pune,Toys,37699.06,Net Banking,2024-02-23,8
+d1aea538-a964-4f04-afb9-3de2cc87fdd8,28,Other,Mumbai,Beauty,43603.11,Cash,2024-04-17,4
+6c4c6e3f-616e-4d96-a09d-f3b89b19ca45,30,Other,Kolkata,Furniture,39151.09,Credit Card,2025-03-03,8
+9b630acf-baa8-4ee5-9efd-d63c77a40d45,49,Female,Surat,Furniture,29499.85,Debit Card,2025-08-31,3
+22d1b155-9519-4c58-90bc-9abf201d6133,25,Male,Pune,Automobile,47048.58,UPI,2025-05-21,5
+f4f91497-92ad-4849-be9f-30feed565f65,23,Female,Bengaluru,Clothing,8061.53,Net Banking,2025-02-20,6
+8b8b2921-2aeb-4cf5-b998-bd7f72c2f538,58,Female,Chennai,Beauty,4037.89,Cash,2024-12-10,1
+3d62de36-e757-43a7-b4b9-4bf3785e59a3,55,Female,Bengaluru,Books,48909.66,Cash,2024-09-01,8
+93448d7d-5411-48d8-9b07-3f2bce96042a,30,Other,Chennai,Groceries,14910.59,Cash,2023-11-22,4
+c8dc07de-690b-4eff-84f3-d9f04b8683b6,22,Female,Pune,Electronics,16082.02,Debit Card,2024-03-08,4
+4e9ce3e0-1c25-4c3b-8d15-5eba57dd49c0,20,Other,Bengaluru,Furniture,6893.78,Credit Card,2025-06-07,9
+c00a9fb0-b533-4dcf-9f35-15ceee00b744,32,Male,Bengaluru,Home Appliances,7518.97,Debit Card,2025-11-06,3
+0445d877-aa07-4e5e-a33a-63efb2ab3cae,45,Male,Bengaluru,Electronics,13679.08,Debit Card,2025-04-27,4
+c05b4d36-c222-4b7f-81fb-bb838530fa19,48,Male,Pune,Sports,21665.68,Debit Card,2025-06-27,1
+bf537a69-e2da-4039-bdbf-9909c3764913,44,Female,Chennai,Furniture,41250.98,Cash,2025-10-05,6
+418f4536-31db-40d7-9acc-211abea50e83,50,Female,Pune,Groceries,46200.5,Cash,2024-12-20,8
+e86534bd-7037-4e1c-a6eb-b19babfb21b1,20,Female,Pune,Beauty,18159.47,Net Banking,2024-09-17,7
+e67fbed8-3abc-461d-9bbf-f95467d12b56,43,Female,Pune,Books,934.93,Cash,2025-11-04,7
+839b5a12-c215-461d-84a1-5322c9fd2b71,19,Female,Surat,Clothing,14131.75,UPI,2023-12-23,4
+19fadd75-418c-4286-a518-8ff215a26e56,30,Other,Bengaluru,Furniture,11124.04,UPI,2024-08-18,7
+6793cb69-c6df-41c4-a476-7f2bbfaf24ad,53,Other,Hyderabad,Beauty,31506.12,Cash,2025-09-29,6
+c9a592f9-e5a3-491e-a617-a152ae4b6ac2,43,Other,Pune,Clothing,38038.34,Credit Card,2025-04-09,1
+d781853e-c8d1-4186-a0b1-4823d3b14321,33,Male,Mumbai,Toys,35215.05,UPI,2024-04-14,8
+f80e0c0d-9269-4c9b-905d-529d6b80cd38,63,Other,Delhi,Automobile,13462.29,Cash,2024-05-18,5
+3ded0feb-ba40-4d93-a49c-66af2e862941,55,Other,Surat,Groceries,21957.58,UPI,2025-09-13,1
+24178f72-6bff-4810-8917-7b302c2479d8,31,Male,Chennai,Beauty,31514.67,UPI,2024-10-02,3
+8f24f43d-8a8f-42f6-b077-338e050f2ab0,41,Male,Kolkata,Books,24392.84,Cash,2025-03-07,4
+2f66b34d-7b28-442c-8ef3-e481197a92ab,59,Male,Bengaluru,Groceries,7579.28,Credit Card,2025-04-05,5
+65804335-db85-4486-93b9-60219dca68c1,34,Male,Surat,Books,32440.44,Cash,2025-09-17,8
+dc72397d-9e31-422c-92e9-0461eaa920a0,20,Male,Delhi,Electronics,6616.83,Net Banking,2024-02-03,8
+e61ca651-151e-43cd-88c6-e5b5cb65a2de,55,Other,Pune,Books,1613.63,UPI,2024-10-20,5
+16cec61c-b24b-4438-8e3d-cbe5416d8506,44,Male,Mumbai,Toys,17976.39,Net Banking,2024-11-29,7
+4f86b51a-701a-4a17-957a-716acd915c07,49,Other,Delhi,Beauty,30186.96,Credit Card,2025-10-22,8
+ff373763-d576-4bd4-a6c7-07d8add9aeb6,35,Female,Kolkata,Beauty,3871.32,Debit Card,2023-11-22,2
+45afe1a7-214c-4a59-b06a-1c31333bfca3,33,Male,Pune,Sports,41144.74,UPI,2024-08-30,4
+d465b3b6-605a-4a9c-835c-0eaffe2a5118,44,Female,Surat,Home Appliances,22867.89,Debit Card,2024-11-27,1
+18ead61d-e54e-4c70-950b-ba2f37d65101,19,Female,Bengaluru,Electronics,22824.67,Cash,2024-11-26,1
+aeb14189-bf06-4423-a938-e61b559bd916,28,Male,Surat,Home Appliances,10232.86,Cash,2024-11-16,2
+eb2c673d-0a09-4f43-ad7d-dbd1f02dee62,38,Male,Delhi,Home Appliances,40029.53,UPI,2024-12-04,1
+9a62be53-b2d6-4870-8358-6fde9e7582b1,25,Male,Kolkata,Clothing,5473.02,Cash,2025-04-11,9
+bf9cec9a-69ea-4b2d-89f4-93b0cfa30b84,30,Female,Pune,Automobile,15863.24,Credit Card,2024-02-26,5
+49a1d637-d17a-47e8-80f1-0921efcc855f,40,Female,Chennai,Toys,14679.67,UPI,2025-11-03,3
+2e9ac5e6-1794-44bc-a4d5-837b6ce6cf4a,23,Other,Delhi,Clothing,16468.33,Credit Card,2024-10-08,1
+ce3dd1cb-121a-44fe-91c6-1e2bf6fa1f3e,27,Female,Surat,Books,11619.72,UPI,2025-02-04,2
+e5048279-ba69-4939-a495-3e416fbeed25,45,Other,Mumbai,Clothing,27454.42,Debit Card,2024-08-29,9
+13ff52a6-9b15-41a1-8d2b-12d7418e26ee,20,Other,Kolkata,Furniture,2681.7,Credit Card,2025-06-22,3
+ee1377c5-682d-4440-8a59-be04ce13f719,52,Female,Surat,Automobile,10043.07,Credit Card,2025-08-24,5
+bb6570a1-d412-4cf1-961d-06507d57a3b1,43,Other,Surat,Sports,47014.63,Credit Card,2024-10-11,8
+08ec742d-cc5a-4762-9590-327b1f76074c,33,Other,Chennai,Furniture,9805.12,Debit Card,2025-09-15,6
+96d345ba-e083-4c64-8088-5c8404495f9d,20,Female,Surat,Groceries,40687.5,UPI,2024-07-08,8
+01748214-7eb7-45ff-858f-76dd72a4e384,55,Female,Surat,Clothing,27851.45,Credit Card,2024-05-27,3
+7d53a86f-5150-48ad-a50e-68ab5037e9ca,44,Other,Delhi,Electronics,6162.93,UPI,2025-08-23,6
+ff8092f1-4638-4afd-98a0-08a11360405a,46,Male,Hyderabad,Toys,30715.46,Credit Card,2024-12-20,7
+05629040-daf1-4a3a-96d0-5ee900ae93f9,55,Other,Hyderabad,Beauty,28537.08,UPI,2024-01-20,3
+89ba7f80-625e-4e6e-b809-fcf9fe481efb,59,Female,Chennai,Groceries,29251.63,Net Banking,2025-08-21,6
+d4d168fe-a67b-4b68-ab2d-03cca3b579e7,30,Female,Hyderabad,Furniture,21286.59,Net Banking,2025-06-10,8
+079507b4-62e0-4355-adcf-2b8509b5cd2b,34,Female,Mumbai,Groceries,45683.13,Credit Card,2025-10-21,4
+19a59b08-3490-42b8-999f-3c09f9448b37,26,Female,Kolkata,Sports,858.46,Debit Card,2025-10-04,1
+7a7a1f72-a71e-4511-b087-d5f00936a197,56,Other,Kolkata,Furniture,12833.71,Cash,2025-07-15,4
+955eecb9-c3d6-4b5a-af0c-88b209f408ae,44,Other,Surat,Groceries,40666.86,Debit Card,2024-08-25,3
+12ad4ba8-e3a7-46cb-a745-cc1002f267fb,49,Male,Pune,Beauty,988.81,Net Banking,2024-10-16,1
+2d766858-6d65-4a0a-8440-7149bf4333f9,34,Female,Delhi,Clothing,26420.04,Credit Card,2024-04-08,6
+2f572f45-139c-482f-bfa2-d54b67f8eafb,35,Male,Kolkata,Automobile,14830.21,Credit Card,2025-01-19,5
+358308f5-7004-486d-bcb6-dd2bd0711131,20,Other,Bengaluru,Groceries,9046.4,Debit Card,2025-06-07,3
+2775fc07-42f0-4315-b626-1c59bb482049,42,Other,Kolkata,Books,34698.3,Credit Card,2024-09-13,5
+935f44e8-9519-48ca-8c85-cb30b9740978,39,Female,Surat,Automobile,32989.23,Cash,2024-12-18,9
+3acf1727-dba5-47f8-af81-1821fa013112,45,Female,Delhi,Clothing,8264.82,Debit Card,2024-05-08,7
+2b3b7eb7-2379-4e9c-802d-4a340e73cc44,57,Other,Mumbai,Home Appliances,43715.55,Net Banking,2024-01-26,2
+b884217b-cf8d-42e9-904a-b5c81f2d2ce9,64,Female,Kolkata,Automobile,7254.69,Credit Card,2025-03-23,2
+59ea571b-3785-42ed-bac3-3777543d079b,34,Male,Delhi,Clothing,45019.81,Credit Card,2025-04-25,4
+d32e2c62-9221-4934-b0ff-477d4d397cf0,57,Other,Mumbai,Home Appliances,38170.26,Credit Card,2024-03-15,7
+550e8ae2-aea7-4320-8adc-b5502f696786,53,Male,Chennai,Home Appliances,11943.91,Debit Card,2024-12-05,4
+e88ba071-672b-41f4-9ee8-4acdeeea8638,19,Other,Delhi,Sports,41731.78,UPI,2024-08-24,4
+5d5f60d5-b71b-4c51-9742-5b580c2d2d5a,61,Other,Surat,Sports,12700.19,Cash,2024-09-05,3
+5d7000b6-6450-4d24-8013-ebd540632d34,58,Female,Hyderabad,Electronics,27953.41,Debit Card,2025-01-05,9
+0c1c5ab3-2b03-4681-8e3c-d372effc90b3,43,Female,Surat,Furniture,1276.17,UPI,2024-02-18,5
+9f2337e7-2e70-4bc7-8910-3133e5c4dbcd,46,Other,Pune,Sports,15683.56,Cash,2025-06-12,6
+32642d3a-b46f-48d0-ae50-41e0f2cd7ddd,61,Other,Mumbai,Books,47835.97,UPI,2024-06-14,2
+61f75425-9ce0-4ae7-aa84-dfd40c803f89,29,Other,Delhi,Books,18040.62,UPI,2023-11-17,6
+a76eee08-9b13-4461-a1a3-a0850bca8250,31,Other,Delhi,Automobile,18688.04,Cash,2025-06-14,1
+fc15864f-0c61-4427-8396-6e68b7447e0f,30,Female,Chennai,Furniture,18554.89,Credit Card,2023-11-23,5
+c3e80472-90e1-4f9f-867f-3c1f91f0194e,64,Female,Hyderabad,Beauty,36380.54,Debit Card,2025-02-15,5
+4d052955-7983-4ae6-a27c-6f7369618cc3,38,Female,Mumbai,Automobile,457.23,UPI,2025-10-28,5
+3bc9792c-a584-41b7-964d-85f7a662c351,37,Male,Delhi,Furniture,34206.17,Debit Card,2025-06-23,1
+9b11d6c0-b915-4091-901b-0b85c2cf34ef,63,Female,Chennai,Clothing,12685.55,Cash,2025-10-30,8
+20d7b886-a674-41ad-b69e-f77a922d3ab8,30,Other,Mumbai,Beauty,5583.77,Net Banking,2024-05-23,4
+75b3f9a2-0493-4b42-87e6-4fbd7c3b70de,59,Other,Surat,Groceries,46624.6,Net Banking,2024-02-28,9
+ddb9ae1e-4d91-45bd-83b3-7dfae474f9bb,53,Male,Chennai,Home Appliances,7021.93,Credit Card,2025-01-21,8
+92b3d56c-37fe-46e5-b89a-b761669a7e7c,52,Male,Chennai,Toys,27415.49,UPI,2025-05-23,6
+d472d545-c95c-4d72-9c89-c43b43617683,31,Other,Mumbai,Furniture,46695.83,Credit Card,2023-11-15,7
+a5542910-d96c-4f13-bfa8-cb4c02661fea,49,Other,Surat,Electronics,28945.61,Net Banking,2024-09-11,2
+d0df93a3-dc5c-41b5-870f-82adf04d927d,55,Other,Pune,Clothing,27290.33,Debit Card,2024-05-03,9
+8b2cb426-cbed-429f-a6eb-c7b4798a5646,52,Male,Kolkata,Home Appliances,37375.91,Net Banking,2025-02-20,5
+daa0777c-6bd9-4e56-a1f6-5f022fe5d0c3,21,Male,Pune,Furniture,11106.75,Cash,2025-02-28,3
+79df4a3c-0c01-45a1-9d61-73e56082560a,36,Other,Surat,Groceries,31728.53,UPI,2024-05-21,6
+bb71c49d-0201-4fa0-9ddc-c9bbeb9b5e8e,44,Female,Pune,Clothing,39079.97,Cash,2024-04-30,2
+3df65908-b861-4f64-931f-c39d4a1461f5,40,Female,Chennai,Furniture,16291.4,Debit Card,2025-04-16,2
+b9bc4796-c478-483a-8ffe-0a6ddb31bce2,36,Other,Bengaluru,Toys,20701.16,UPI,2024-10-21,1
+29de5d66-47cd-46de-bc32-b4d5e66cbf1b,21,Male,Kolkata,Clothing,49413.87,Cash,2025-07-13,7
+5e9b925f-7fb6-4b14-afea-844495c1354d,37,Other,Chennai,Automobile,46349.39,Cash,2024-09-15,9
+e6abe6df-920e-4850-9a0c-f98d59eaef37,47,Male,Kolkata,Automobile,34030.2,Cash,2025-07-14,4
+5c664e43-c371-42bf-9e69-6658fe086ccd,60,Female,Pune,Clothing,45896.66,Credit Card,2025-01-18,9
+cacd2f76-4362-4cb2-9d3f-29a21802d528,39,Female,Pune,Groceries,5517.79,UPI,2025-03-21,4
+ae8c001d-c7cd-417f-977a-7ea9a16aceef,25,Other,Chennai,Automobile,31659.02,Cash,2024-01-05,8
+688af834-0fbb-4fc5-8eae-b6ff67c70665,44,Female,Surat,Sports,40937.12,Cash,2024-01-22,4
+02d4fced-4fee-4cd5-a996-0e72007d4d5d,56,Male,Pune,Automobile,46050.27,Cash,2024-09-24,1
+b9ff26c9-e13e-4a1e-9109-d28fa3fe15e1,57,Male,Surat,Electronics,37164.1,UPI,2024-08-07,3
+9c63bf07-b089-4367-80df-62bc28d63163,22,Male,Mumbai,Furniture,7268.53,Cash,2024-08-23,4
+73e74665-62dd-44e8-a8f0-9451a8ef2c5f,46,Other,Chennai,Beauty,10804.83,Debit Card,2024-05-29,4
+b1096261-b3c4-4c82-b59f-436b08703df0,49,Male,Pune,Sports,17165.41,Debit Card,2024-09-19,8
+471f8ec7-5729-454a-a0d7-3cd3f21c59e8,45,Male,Delhi,Groceries,11278.94,Debit Card,2025-04-10,9
+3ede7399-e010-4667-b55b-bda35d3c3e4c,60,Other,Hyderabad,Electronics,43544.84,Net Banking,2024-03-17,2
+e42dde20-c096-4f3c-a7ed-253dce1056a4,41,Other,Chennai,Groceries,5824.01,UPI,2024-06-23,5
+cf671d68-d042-42ca-b709-d3fc3615ead5,40,Male,Mumbai,Clothing,10591.05,Debit Card,2025-03-12,4
+a60ddbfa-c526-4109-9bdd-3596cd4f1c9b,55,Female,Chennai,Beauty,3459.06,Cash,2025-08-02,6
+1bbe19e8-ed42-4c85-8a42-0769262edf30,46,Female,Surat,Furniture,8784.4,Cash,2024-05-19,6
+6d6cb04f-9222-4eeb-a774-5c8e9d35bc25,49,Other,Pune,Clothing,10778.65,Credit Card,2024-02-21,1
+7f745ca4-edb3-4671-96d0-a0ac5cb44187,51,Other,Hyderabad,Sports,11361.87,UPI,2025-01-23,9
+1cb3780e-64bf-4339-a6ba-0da81a267db6,52,Female,Bengaluru,Books,9603.85,Cash,2024-10-28,6
+5fbcda8c-37d3-4738-b9f8-08cb84675abc,41,Male,Kolkata,Clothing,49210.42,Net Banking,2025-10-19,7
+4c2722e2-0fa3-4c62-b08e-67de0425c92d,33,Female,Delhi,Toys,31655.9,UPI,2024-05-18,7
+9a427701-1b38-4b6f-8396-584675b1fd6c,52,Male,Mumbai,Toys,25766.14,Net Banking,2024-04-25,2
+a92a2c8f-fbb6-4d4b-905b-c3e882215264,42,Other,Bengaluru,Books,5215.31,Credit Card,2024-08-06,5
+3402c77e-d1d0-4b95-b50e-e48bcb2bc23a,25,Other,Surat,Home Appliances,28681.62,Credit Card,2024-11-15,3
+d7e0b27f-c2b7-45d0-941b-4aab0e77ed5e,51,Male,Mumbai,Electronics,13126.44,Debit Card,2023-12-15,5
+4a5b0b26-43a1-4e8a-a539-271d4290fb7a,18,Male,Hyderabad,Furniture,24016.9,Credit Card,2024-10-21,4
+66dbf676-3d58-4921-97d7-1ca77085cbf5,38,Female,Kolkata,Home Appliances,36247.28,Credit Card,2025-04-19,2
+5ce37fb9-d370-401f-bd94-fc3cef5569ab,49,Female,Surat,Furniture,12515.18,Net Banking,2024-01-01,5
+2339249e-3789-446e-8bbf-59a4dbc15636,56,Female,Bengaluru,Electronics,49995.27,Net Banking,2025-08-22,6
+5d58d9ef-cd28-4d6a-85e7-b49671622b7b,50,Other,Surat,Home Appliances,7290.9,Debit Card,2024-01-25,3
+5e5fc10c-838d-4af5-8761-f9cac818ead0,43,Female,Kolkata,Beauty,37686.99,Net Banking,2024-06-19,3
+249e778a-90eb-41f0-84f8-fd6590384d7c,38,Other,Chennai,Groceries,24971.98,Debit Card,2023-12-15,6
+bc11daad-305c-433b-9578-868eac2f0e6d,20,Male,Mumbai,Books,30478.61,Credit Card,2024-08-16,8
+81c0981f-1003-4372-a874-a8d01603b5fb,19,Other,Mumbai,Books,30580.12,Cash,2025-05-05,2
+f95c8749-ac26-4203-bc3e-36b5e52f5111,51,Male,Hyderabad,Books,46744.26,Net Banking,2025-02-23,6
+4d58db7e-0e75-4ca2-abe3-7b0f72939896,38,Male,Pune,Beauty,18683.04,Cash,2025-04-13,5
+4ae44eee-cee0-46f1-b648-ec8d106f7090,29,Female,Bengaluru,Furniture,33094.37,Debit Card,2025-03-15,2
+907093f8-b313-4bd8-b874-17f92abe51b3,25,Other,Hyderabad,Books,6861.27,Net Banking,2025-10-11,4
+a48f5bf4-c283-456f-9357-8a7b9b11b578,36,Other,Hyderabad,Toys,1785.08,Credit Card,2025-05-26,7
+d4eba101-3116-4318-87b2-dcecab28290f,45,Female,Hyderabad,Sports,2106.9,Debit Card,2025-11-01,8
+2c426d8f-0958-40d0-ab51-7160433ea1a2,62,Male,Surat,Electronics,7637.48,UPI,2024-06-05,4
+a3631034-4d3d-4ea8-9edc-45af7b296265,23,Female,Mumbai,Electronics,27008.26,Debit Card,2025-01-06,7
+2208bfbd-3e16-44d3-bfd3-0e0ab7587db9,47,Female,Bengaluru,Automobile,9610.59,Cash,2025-09-04,9
+e30651d8-131d-4cd4-9ef0-fb74d45fc727,54,Other,Pune,Sports,25300.03,Cash,2024-10-17,8
+d5d0b24f-6226-4c4f-89eb-130abcd782a9,51,Male,Delhi,Beauty,25567.44,Cash,2025-01-19,3
+3c306bbf-4a09-4ade-a212-6ac672ae19c8,64,Other,Pune,Beauty,47750.2,Credit Card,2024-04-02,3
+4f11055e-f0b1-4042-a23d-efef3bf68caf,63,Male,Kolkata,Groceries,1789.48,Net Banking,2025-07-16,9
+50afc8f6-4404-414a-a1f8-9b545f4da8e9,19,Female,Delhi,Groceries,32933.39,UPI,2024-07-05,9
+80804f32-9e64-4c42-806a-08442a6a8b47,20,Male,Hyderabad,Sports,16546.87,UPI,2023-12-06,8
+a3277a6d-f42d-4906-b5f5-baac5a9f6be6,25,Male,Delhi,Sports,46994.72,Cash,2025-06-07,7
+d65a2fd7-7f70-4b09-bf83-77a21295ba77,25,Female,Delhi,Beauty,20710.71,UPI,2025-03-14,6
+9cb9f98b-df9b-4ef7-828d-23397dd7518b,38,Male,Bengaluru,Books,1524.79,Debit Card,2024-02-25,8
+53c17984-6947-43db-8176-b6a497e2638f,57,Female,Chennai,Electronics,17130.75,Debit Card,2024-11-14,3
+9387fc19-501d-4b92-b428-9d03c63ac39c,20,Other,Surat,Automobile,11521.38,UPI,2025-07-10,3
+57a9b884-c8b4-4d1c-99ce-561bf075890b,60,Male,Delhi,Sports,21566.28,Cash,2025-01-26,5
+4391e76a-5fba-4fdb-b646-d433f1d4c1c7,60,Male,Pune,Books,30285.34,UPI,2023-11-18,3
+88a0f510-53e0-4ba5-a930-f40afccc0d53,61,Male,Kolkata,Toys,7454.81,UPI,2025-08-06,4
+06497115-db1f-4092-a2b9-6b9344d9543e,41,Other,Bengaluru,Electronics,29952.84,Debit Card,2025-06-13,1
+8d7e0468-face-4136-aff8-6f729bef1a7f,64,Female,Pune,Electronics,12004.51,Cash,2025-10-03,1
+f5e4f71f-663c-42c8-b5e0-bdbc7b8e5546,51,Female,Delhi,Books,11722.91,Net Banking,2025-06-21,5
+e267cc5c-5ee6-48b7-8d81-9faa493a3271,49,Other,Pune,Sports,41074.45,Debit Card,2024-05-29,6
+fb09b20d-3edc-4135-8a8f-c0797e7f6127,58,Other,Pune,Home Appliances,22777.94,Cash,2025-06-05,9
+687469d9-866c-4dab-8742-04190af9d62c,36,Male,Bengaluru,Toys,3214.62,Credit Card,2025-05-29,5
+717c7d0e-3428-41c2-984b-45fa6c6073fb,32,Male,Mumbai,Sports,32835.36,UPI,2024-10-25,2
+9a4ec8d5-4045-4091-a096-a48eb0ae8ad5,55,Female,Pune,Home Appliances,41391.17,Debit Card,2024-12-02,8
+594e7f2d-0b3e-4fae-9bc5-9db0029db6e5,49,Other,Pune,Furniture,31747.22,UPI,2025-10-20,9
+1807140c-7db1-4de5-a527-9d6a0cf54347,22,Female,Chennai,Clothing,4628.76,Net Banking,2025-09-12,4
+c0e09039-5ccc-436a-8948-725316824dce,48,Female,Hyderabad,Automobile,27640.65,Debit Card,2025-07-26,8
+75af60a1-d08f-4d3e-a5fe-a8b3d144f974,21,Female,Hyderabad,Sports,39305.83,Cash,2025-09-22,3
+1eda78c8-af92-4a5f-a0f7-82562997ae1d,62,Female,Mumbai,Clothing,2759.66,UPI,2025-01-12,9
+785de9ca-19ec-4a1d-bddc-f42a8c3f2782,59,Male,Chennai,Beauty,38773.19,UPI,2024-03-18,5
+3797fa70-c7d0-492e-8051-be44c00c8dbf,44,Other,Surat,Clothing,42945.73,Net Banking,2024-10-01,1
+66ad3312-d320-40d4-a052-6fc0741a19e6,35,Female,Delhi,Electronics,42319.2,Debit Card,2025-11-04,2
+cd01a8ed-21aa-411d-9122-86f25fea2cfd,18,Other,Kolkata,Automobile,27210.26,Debit Card,2025-02-08,4
+d2bfe2c6-ff1e-4cc4-a23a-9f9629d00ee9,60,Other,Surat,Beauty,28498.45,UPI,2024-01-23,8
+cbec4834-0e3b-44a0-8d60-a17c36bc9aba,41,Male,Bengaluru,Clothing,14187.86,Net Banking,2025-09-20,8
+c503d885-efe4-4e9c-8768-c7efd281e1c7,34,Male,Bengaluru,Electronics,44474.05,Debit Card,2024-04-26,2
+ff503572-8d7e-43b5-b197-2e548fdd6ce8,33,Female,Surat,Electronics,49457.14,UPI,2023-12-19,6
+6072a055-5a40-4fa7-910c-4cbbf4100129,64,Male,Pune,Beauty,25458.92,Credit Card,2025-10-20,4
+35470198-9de4-493b-853f-cbe048157e3e,54,Other,Delhi,Furniture,502.95,UPI,2024-03-02,8
+1d51c4bf-6bc0-44c6-ba88-0802ea629c94,46,Other,Mumbai,Groceries,5563.95,Net Banking,2024-04-08,8
+486ee5b5-b281-4095-8b1e-3244621786d2,33,Other,Pune,Electronics,20633.41,Net Banking,2025-10-07,6
+0a22572f-1c5b-4d15-a5dc-a736d1e4e123,56,Female,Surat,Automobile,38450.21,Cash,2024-04-11,4
+924e1df4-4760-421b-939f-8663390b89ce,30,Male,Pune,Electronics,34316.12,Cash,2024-09-01,9
+90401c1a-b724-4d22-8b5c-7bae7f397f30,41,Male,Delhi,Furniture,12697.91,UPI,2025-09-21,7
+43a9ce0a-e80d-4c6a-a026-ce1cf93814e1,54,Female,Kolkata,Home Appliances,8465.94,Net Banking,2024-09-05,3
+d29b539e-9401-41d2-abe0-02543c05882c,53,Other,Pune,Automobile,25507.11,Debit Card,2024-08-22,5
+05b2a76f-5f7e-4c1a-befd-1435ef9ada08,33,Male,Mumbai,Clothing,13116.78,Debit Card,2025-04-05,9
+10d393b2-9399-45f6-80dd-bffcb8470019,59,Other,Kolkata,Furniture,34564.01,Net Banking,2024-08-06,1
+62a8bcee-5071-4c62-9d4d-077be71ef02a,52,Other,Pune,Toys,14545.54,Net Banking,2025-03-29,3
+57dc6e64-1d09-4302-a47a-daa06f99b9fe,58,Other,Bengaluru,Sports,20516.45,Net Banking,2025-07-10,9
+8d406151-6bb8-4c2e-9bd3-8e3b089e28a1,33,Other,Pune,Furniture,13924.81,UPI,2025-10-09,8
+9f8b7c18-03c4-490a-9f1a-3aa8cbdde5f6,33,Male,Bengaluru,Clothing,12809.88,UPI,2025-05-14,3
+b61772a4-02b7-40a8-abb9-02d6d9f3ac09,55,Male,Bengaluru,Home Appliances,46239.8,Net Banking,2025-03-05,7
+d495e846-4981-46ff-adb2-7799d08bec01,45,Male,Mumbai,Books,26652.47,Cash,2025-04-15,2
+b2ed7f01-e774-47af-aede-7013d2e9f590,43,Male,Pune,Clothing,10116.69,Cash,2024-08-31,8
+05541327-4f9f-4e6b-b51e-c7717dd6069a,62,Female,Bengaluru,Furniture,25709.98,UPI,2025-07-17,2
+02be2af9-ed60-4f61-9b00-581d05a94659,39,Female,Kolkata,Toys,13611.78,UPI,2025-08-11,8
+8295418a-9503-4fc5-8044-7453b7d5b34a,63,Female,Bengaluru,Books,6300.08,Net Banking,2024-06-15,3
+99d74ae9-1227-4394-ac87-bc4bc0f6306e,56,Male,Mumbai,Clothing,22192.18,Credit Card,2025-02-01,2
+40b1a7b6-403d-4dc3-8ec6-edfae9b33416,34,Female,Hyderabad,Groceries,27681.84,Credit Card,2024-10-06,7
+1632e7e1-52a3-4cff-8cad-1d5f3cdbc3c8,49,Male,Delhi,Electronics,25151.63,Cash,2024-05-27,2
+7b59aebf-d6b3-477f-af75-0c64daff7b7d,28,Male,Bengaluru,Toys,7329.46,Debit Card,2024-11-05,1
+adc5450a-59bd-43c9-8798-097bfa5e35dc,50,Female,Mumbai,Sports,12100.32,Debit Card,2024-06-20,4
+7c353057-e51b-4e59-8833-60345af20690,24,Female,Mumbai,Automobile,43598.45,Cash,2024-02-09,5
+dee65c2e-bca7-44f5-a484-19d8a94d0dde,30,Other,Chennai,Clothing,17178.13,Credit Card,2025-01-03,6
+22cacc0a-ffa5-4c29-b50f-25ae2140bc97,55,Female,Kolkata,Sports,14612.56,Credit Card,2024-03-05,2
+600f543c-d307-49dd-9bfe-8816dd33fab3,58,Male,Surat,Groceries,34264.24,UPI,2025-06-14,6
+d2f69aea-cc4f-4f7e-91f1-dc142068f9cd,25,Male,Hyderabad,Sports,21370.51,Net Banking,2025-06-21,7
+480e88e5-5a4b-4223-afc3-30f0dc8e0c7d,60,Other,Chennai,Toys,31121.34,Cash,2024-06-13,3
+17f758ee-39b9-41e1-9929-73aa4b787f6a,30,Male,Mumbai,Home Appliances,741.05,Cash,2025-09-26,5
+73ea8222-3d3c-490d-995c-d59dc00bad29,62,Male,Mumbai,Toys,16954.32,UPI,2025-08-04,4
+4b90f6fe-f1d0-49db-80c9-54b1275c6d8e,36,Male,Bengaluru,Books,47481.46,Debit Card,2025-05-23,7
+0801b72c-6840-4bd8-af87-36727ea39810,52,Male,Hyderabad,Electronics,43452.95,Debit Card,2024-10-19,7
+95730871-96c5-4cc0-9047-71afe8f314e0,39,Male,Delhi,Books,7086.05,Debit Card,2024-08-30,9
+5e361e4b-008d-4f2a-acf6-d8af87dd85ca,50,Female,Chennai,Groceries,24449.49,Debit Card,2024-02-20,8
+7c9e4c05-caf8-4f99-afba-2a7129cdfd5e,33,Other,Chennai,Beauty,28009.16,Net Banking,2025-10-11,2
+61a27e12-dd55-4352-9d20-142f82ad800d,31,Other,Surat,Toys,29385.84,Debit Card,2024-07-16,2
+1dd82832-671e-4340-a828-02ecc01b4a04,42,Male,Bengaluru,Books,17340.3,Cash,2024-03-10,6
+75aa7604-c418-4548-a477-ee1b06e86cf0,44,Female,Pune,Groceries,30563.06,Cash,2025-08-23,2
+930df8ef-5682-4a9c-9ed7-1fa0047bcb57,62,Female,Mumbai,Sports,39232.94,Debit Card,2025-11-11,5
+0ceb5631-5924-45d0-bafa-91f89efa635d,64,Female,Bengaluru,Clothing,2233.37,UPI,2024-05-28,6
+4fdd1528-1809-43ff-b54f-a9b318257ce8,44,Other,Kolkata,Home Appliances,29566.37,Debit Card,2023-11-25,3
+4bc952c4-6681-4898-8cf2-e75d9c7623e1,42,Other,Kolkata,Automobile,2773.47,Net Banking,2024-12-22,6
+d2f0809a-cd7b-453b-8152-640822b164c0,52,Other,Surat,Automobile,46402.18,Debit Card,2024-01-15,9
+6164667e-f5da-484c-8ce1-99ea357459b2,60,Other,Hyderabad,Automobile,22887.83,Cash,2025-10-18,2
+1b94a146-9e78-49bd-9095-b64056524ade,27,Other,Pune,Clothing,43670.58,Credit Card,2024-03-07,6
+e43c6fbb-dacf-43b7-b1ba-11454b6436fe,60,Female,Surat,Home Appliances,2586.73,Credit Card,2025-10-14,7
+b2128b0c-c824-4c75-8215-9c899afd26dd,25,Male,Delhi,Automobile,26047.8,Net Banking,2025-11-08,9
+8758cd47-75e2-4c80-ac50-8a03cfcebe2a,20,Female,Hyderabad,Sports,4012.51,Credit Card,2023-11-25,7
+2d050b7a-4ec9-4b6a-b911-dc626222f6d3,59,Female,Mumbai,Beauty,16105.79,Cash,2025-07-11,2
+dc5bfc5d-3096-4b96-b735-18ae0339fae8,21,Other,Mumbai,Groceries,28407.61,Cash,2024-04-11,1
+3921f751-fb33-409d-885f-a9d4992a155c,45,Other,Delhi,Beauty,18380.97,UPI,2024-06-17,9
+eb20b68a-c9c6-46ec-bbbc-14e6375ffbd8,35,Male,Chennai,Sports,3253.74,Debit Card,2024-07-16,4
+b12d78b7-8035-4887-bb79-451b6d6febd9,47,Other,Chennai,Toys,28676.82,Debit Card,2023-11-18,5
+6bd22aa0-3486-4708-8148-8177a9c17af7,53,Other,Hyderabad,Sports,43381.18,Cash,2025-09-19,2
+5dd4e360-d2b8-410b-b0b1-b43133d81516,62,Female,Kolkata,Clothing,6377.17,Cash,2024-03-06,5
+6d7c9fcc-359d-44c8-9ecb-bd970d9a264f,51,Male,Bengaluru,Groceries,13503.09,Credit Card,2024-08-06,3
+d64785ef-5874-4cf0-b63e-cf3004015375,55,Female,Delhi,Beauty,10678.7,UPI,2024-02-26,2
+be7eea74-a0a3-43e0-96ee-d653c544836b,54,Female,Chennai,Automobile,15587.99,Debit Card,2024-04-10,4
+3671cebb-81f7-4018-93ed-8d5292efb477,32,Male,Mumbai,Beauty,41298.68,Debit Card,2025-09-04,1
+a283c1e7-f578-4484-ba10-7e774f1bcfd8,26,Other,Bengaluru,Furniture,45036.2,Cash,2024-04-17,8
+997ee8a1-462e-49c5-9118-83d5ef4eebe4,50,Female,Mumbai,Furniture,2581.91,Cash,2025-06-28,9
+c7a44223-2ff6-4934-bbdd-0509c3711e32,56,Other,Hyderabad,Books,14333.99,Credit Card,2024-05-24,3
+9abb8f4b-d0f4-4f97-a957-409d214b36bb,57,Other,Pune,Home Appliances,31418.21,Credit Card,2025-09-22,6
+a66c4646-b946-4dbb-a78b-eb69e722de86,24,Male,Mumbai,Home Appliances,2904.41,Debit Card,2024-06-15,8
+46dc7d18-ed1b-4e60-8ded-47a1384f80a1,28,Female,Kolkata,Beauty,39636.76,Net Banking,2024-04-29,9
+9f5ff50a-9226-49d0-b07f-fb8e0f14784c,45,Male,Mumbai,Toys,34365.36,Credit Card,2024-04-07,9
+3f5179c8-16d7-4582-bde8-b5c16c5d6d5f,34,Female,Surat,Beauty,23978.56,Net Banking,2025-09-26,6
+01f760d4-6669-42c3-b218-3f2de52c525a,26,Female,Kolkata,Beauty,36828.68,Net Banking,2024-05-14,6
+74d66f22-c630-4448-8287-5bb40cab5945,29,Female,Mumbai,Beauty,24825.45,UPI,2023-12-22,1
+44f7b5af-f690-40ee-951c-db01e0c0cfea,27,Other,Bengaluru,Groceries,24849.44,UPI,2024-06-04,6
+ecb23b1d-679b-4c26-b2fe-523af5adf9e2,37,Female,Kolkata,Electronics,3911.06,Debit Card,2024-08-13,2
+358f2910-c023-4f8f-8690-49bac6884694,55,Other,Hyderabad,Clothing,7211.54,UPI,2024-08-07,5
+2e28306b-31dd-49e9-a4a7-efc665008378,22,Other,Kolkata,Beauty,47550.93,UPI,2025-07-08,6
+3637d571-525c-4b04-be54-db2c8ff1b8a8,18,Male,Delhi,Sports,42684.77,Debit Card,2025-04-09,9
+5161970c-d32d-4aad-b959-9eab2e6547bd,18,Other,Kolkata,Home Appliances,13736.12,Cash,2024-03-07,8
+c162dd32-c35c-4f60-afe5-5fc45d9a114c,49,Male,Bengaluru,Automobile,14601.34,Net Banking,2024-04-19,7
+ea40dc01-df7f-4a10-bbc8-00108f064eca,51,Other,Mumbai,Electronics,20834.05,Net Banking,2025-08-18,2
+179d312f-5768-4dec-b14c-27c695988fed,20,Other,Bengaluru,Clothing,29519.0,Net Banking,2024-02-21,4
+f09eda2a-c17d-4aaf-8aa2-19db496a0d6d,22,Male,Chennai,Books,43289.07,Credit Card,2024-03-13,7
+837d5c5d-7c61-4a6e-bf07-16c96dba8bd4,22,Male,Pune,Beauty,28977.46,Debit Card,2024-04-19,5
+45e4ed95-7e71-4899-a90b-b9bf0711f31b,39,Other,Bengaluru,Home Appliances,17663.73,Net Banking,2024-01-31,3
+ee5ab912-829b-4898-84fa-e41c7f0f4be2,51,Male,Kolkata,Electronics,44243.37,Net Banking,2024-07-17,5
+baf46cd5-72c4-4d89-91b1-cfd6072a141c,26,Female,Hyderabad,Toys,10599.32,Cash,2024-01-11,9
+af5e8eb7-1f30-464a-98c9-a6a60c32b02b,27,Male,Kolkata,Groceries,32088.58,Net Banking,2024-09-23,8
+4bb40b18-75b4-4d42-8148-b1eabe59a765,40,Female,Chennai,Furniture,44020.59,Debit Card,2025-11-13,5
+dd13d0ff-0743-4b54-82eb-80c4d3964976,49,Male,Kolkata,Sports,18910.63,Credit Card,2025-11-03,4
+0b62c129-0303-4004-b6e9-c8345446bc71,54,Male,Delhi,Furniture,34924.15,Debit Card,2023-11-30,8
+8529945f-e08d-4721-843d-fb4d53ad6fbe,24,Other,Chennai,Clothing,33856.06,UPI,2024-01-09,4
+3b38478f-71bc-4976-994b-6fba9571f93f,35,Male,Pune,Sports,387.64,Cash,2024-09-06,7
+1af2e27c-fc77-4c73-b856-a487ac5dfd5c,62,Male,Delhi,Sports,19334.96,Net Banking,2025-06-06,8
+3d602ee9-90af-4d67-9c76-bde51200897b,47,Female,Chennai,Automobile,21537.39,UPI,2024-02-20,8
+3479fde7-ab28-4414-9296-ba4c8761cb82,20,Other,Kolkata,Sports,16927.2,Credit Card,2023-12-13,1
+fe93b134-e8be-4e0d-8d6a-829f26b41149,20,Other,Hyderabad,Beauty,35652.88,Debit Card,2024-10-02,7
+68564f04-4e64-42ac-94c3-76988066e3ac,52,Male,Pune,Sports,48044.4,Credit Card,2025-02-13,4
+669b23ef-a751-428f-a903-214b4f107135,54,Male,Bengaluru,Electronics,34960.11,Debit Card,2025-07-01,8
+245418c9-1407-40ec-8a93-3e41e979c393,42,Male,Delhi,Beauty,31640.79,Debit Card,2025-06-02,2
+c3a35b38-c2df-479e-b7a1-ab6bc112217d,61,Female,Hyderabad,Electronics,25901.49,Net Banking,2023-11-17,1
+0b97e1b8-f7bc-46c6-93c3-3ebdae428394,18,Other,Bengaluru,Automobile,48993.56,Credit Card,2025-01-13,2
+21b6646e-3eef-48c7-97d8-5679bad3c90a,49,Male,Delhi,Beauty,1687.1,UPI,2025-08-31,6
+9eac38e7-28f4-4b8a-915e-28ca1a98e113,48,Other,Delhi,Toys,4982.54,Credit Card,2025-08-30,6
+913a1af2-1f14-4b4b-ad1b-4087ffcc4d08,45,Male,Chennai,Sports,49981.27,Cash,2025-05-09,3
+36eda87f-ec5f-48b4-952f-4c8088ec58fb,47,Female,Pune,Electronics,46101.83,Debit Card,2024-03-17,4
+9a9c5594-0e31-4259-a900-828281a7c027,53,Female,Bengaluru,Clothing,28017.01,UPI,2024-01-08,9
+6085cc13-4ea0-4f3c-9d0d-b366d2b0cede,18,Other,Bengaluru,Books,20218.63,Cash,2025-03-18,8
+e3f76bd6-c434-4758-88f4-8e07ea9e5339,61,Other,Hyderabad,Home Appliances,15391.68,Debit Card,2024-03-01,8
+b4ef1c2e-0e66-40fd-a544-13ec6d9c5ee5,47,Other,Hyderabad,Beauty,33531.15,Credit Card,2025-09-09,8
+2b400872-2f4b-420d-9bb3-c7c9199d36ec,56,Male,Mumbai,Books,8948.94,Net Banking,2024-02-03,8
+6e899849-132d-4d6c-97fe-f497ccfb3592,19,Other,Hyderabad,Furniture,21929.91,Credit Card,2024-09-09,2
+d4ca0b29-68e9-4f77-9eb0-ba7dbe554dc1,64,Female,Kolkata,Sports,9443.5,Credit Card,2024-12-02,1
+43912faf-d3b3-4c04-92df-9b2b84e2728f,52,Other,Mumbai,Automobile,12013.18,Credit Card,2025-03-01,8
+2b87aec6-7870-40ea-acee-2bf6bb098aa8,35,Female,Surat,Furniture,35028.52,Net Banking,2025-02-23,6
+c99066da-75fd-4b98-bcac-8c00dc2f17ad,50,Male,Bengaluru,Books,26991.43,UPI,2024-08-20,4
+6fbc1938-38ce-460b-a515-63cd6224a932,27,Female,Kolkata,Groceries,9469.13,Debit Card,2025-06-14,6
+fcf579b8-adce-4dd0-b150-8c579ac227c6,28,Other,Kolkata,Sports,6032.44,Cash,2024-07-30,7
+df97c5f7-8d35-4560-a276-b39606f6e7c6,37,Female,Delhi,Electronics,28197.59,Credit Card,2023-11-22,8
+1bf6cb14-5dec-4463-adb5-81726200716c,42,Other,Mumbai,Clothing,11806.17,Net Banking,2025-07-24,4
+f64acdf4-a465-4348-ba0b-d23acc04ae8d,52,Female,Bengaluru,Groceries,21064.3,UPI,2025-07-09,2
+8c1a6b6f-977b-4bec-91c6-24f69cfd3381,47,Other,Surat,Beauty,15570.27,Cash,2025-08-08,9
+0b5b9307-5c30-4b9b-a7b3-958f1b3304c3,64,Male,Hyderabad,Groceries,44488.54,Cash,2025-02-14,3
+1ba26146-08df-454b-9b58-d91b0e8e70ca,19,Male,Hyderabad,Books,25764.73,Debit Card,2024-05-31,5
+2a87170e-6e07-4ed8-bbe2-dfec4ba55bd2,29,Male,Kolkata,Beauty,28283.76,UPI,2024-05-12,1
+093bb920-5f83-4528-b5fe-3df5dceea7bd,49,Male,Surat,Sports,11051.52,Credit Card,2025-10-19,6
+b19894ce-dad6-4228-a04a-ec66c68dff9d,61,Other,Surat,Clothing,48632.37,Debit Card,2024-11-23,4
+bc38aff6-51fc-4778-9a4f-48abfc81ef7a,59,Other,Mumbai,Sports,15865.58,Net Banking,2025-09-18,5
+51300195-c9d7-4af5-a74b-48e8ea9c78e4,58,Other,Hyderabad,Home Appliances,22506.55,UPI,2024-07-18,3
+e3fcd1de-c30e-418f-9053-711881226b59,31,Other,Pune,Books,2421.47,Debit Card,2025-01-30,9
+8c4c9a13-c808-4d2a-874e-e5952dbc675c,46,Female,Bengaluru,Furniture,16089.29,Cash,2025-09-13,4
+7d402224-eeff-4bf2-9d15-15463145c7d9,60,Male,Pune,Electronics,38772.28,Cash,2024-11-28,3
+593b4b66-00af-4e26-8e6f-dfc49078b17d,27,Female,Bengaluru,Automobile,21327.88,UPI,2025-10-01,9
+5808592f-5e36-4362-8b87-562593d90b01,43,Female,Hyderabad,Electronics,26485.27,Debit Card,2025-07-26,6
+15867e88-c15b-4f36-a13c-687bcf284c99,50,Other,Chennai,Furniture,17391.79,Debit Card,2024-09-19,3
+e24954b3-f4ab-42b4-83a8-95afe59fb00d,23,Other,Kolkata,Home Appliances,42118.8,UPI,2025-01-17,4
+acedffeb-7c08-4c33-82a8-d19f49386d35,57,Male,Kolkata,Sports,1448.96,UPI,2025-10-12,6
+4447530c-5ec1-4d92-9822-57a40d215cc8,25,Female,Bengaluru,Automobile,33083.2,Credit Card,2024-08-08,6
+51644d7b-cfa8-4949-81f0-de4d65d6ec05,52,Female,Pune,Toys,45994.39,UPI,2025-08-11,1
+3e8a51d1-adc6-4f92-a8fe-ea471bb6253a,26,Female,Hyderabad,Books,42238.42,Credit Card,2025-07-23,3
+265bd7f8-4066-4479-b761-2ab6cd999583,26,Male,Pune,Books,30738.11,Cash,2024-12-15,4
+4b1afd51-585e-4e13-a66f-68fa10864e28,35,Male,Delhi,Beauty,16708.4,Credit Card,2025-08-20,6
+470ccfb4-a58e-4d44-bd99-5f185fe44107,34,Other,Chennai,Clothing,31357.34,Debit Card,2023-11-15,5
+f88be4f1-b584-4636-8bf9-3d3690feb72c,64,Male,Delhi,Books,42682.03,Net Banking,2025-09-28,9
+d55c555a-5b53-4ebb-a2f8-c03cb13dab43,47,Other,Pune,Groceries,23097.57,Credit Card,2023-11-27,2
+6380bfe8-77f4-4448-8bee-94b827ecb803,47,Female,Kolkata,Sports,21115.54,Credit Card,2024-01-14,1
+44217654-8226-4957-9ea3-fce2be8dae3b,40,Other,Hyderabad,Sports,10599.92,Credit Card,2024-07-20,1
+c31bc895-60d0-49fa-a726-9d100bf7efcf,31,Other,Mumbai,Clothing,38349.03,Credit Card,2024-02-26,8
+cc60dca5-3185-4293-b630-453da16337bd,26,Male,Bengaluru,Electronics,34980.52,Cash,2024-07-25,9
+3477346f-4d66-4492-b885-269c664d8353,28,Female,Kolkata,Sports,3175.04,Debit Card,2024-05-12,3
+7ab93a5f-4c15-4b90-8af2-66dc16d2c9cc,36,Female,Delhi,Beauty,2501.97,UPI,2024-06-05,1
+2a333291-5174-4433-adad-535c3bac1c87,47,Male,Hyderabad,Beauty,14296.78,UPI,2024-08-02,2
+6048fb75-3d11-4980-99d0-cca2a02f996e,57,Female,Mumbai,Beauty,42092.89,Cash,2024-08-19,7
+afd8ae79-ca1e-40b0-824a-fea7416c04c5,53,Male,Bengaluru,Furniture,43524.21,Debit Card,2024-10-27,1
+172e703c-95db-408c-8e8f-7964b3520926,64,Female,Hyderabad,Electronics,32678.04,Cash,2025-01-25,4
+df6af941-e4df-4ae4-ab16-916b46cb52a8,61,Other,Mumbai,Furniture,7364.17,Debit Card,2024-03-01,7
+785695f1-3840-46e1-aaff-c340c93b26d7,54,Female,Surat,Sports,43727.76,UPI,2025-04-25,8
+3845215a-d0a2-49dc-9267-4c11a07abf43,44,Male,Pune,Clothing,19910.04,Credit Card,2023-11-29,8
+87273c9c-c4f8-4e1f-8f03-92726028fc5e,37,Other,Bengaluru,Groceries,4173.9,Net Banking,2024-10-03,4
+208104f1-fb48-4086-aa90-4682e5bf5a61,58,Other,Chennai,Electronics,27453.14,Cash,2024-05-31,8
+ea473fe5-fb44-428e-9da4-9e562f1d8573,51,Other,Hyderabad,Groceries,16398.85,Debit Card,2025-03-05,2
+4e8a31d4-d459-4b90-be4b-8774c9d26cbe,26,Other,Delhi,Furniture,44092.23,UPI,2024-01-15,4
+9bcf0f63-208f-4162-b7bd-3ef92918de38,35,Other,Bengaluru,Automobile,39248.94,Credit Card,2025-09-23,3
+141480e8-b44a-4951-9c88-08ca9c291ccb,61,Female,Chennai,Electronics,23766.77,Cash,2025-10-14,8
+860d9423-b654-463b-ba7b-c9aa565161ae,34,Other,Delhi,Home Appliances,9743.79,UPI,2024-04-18,6
+6c3dc989-1349-4171-8920-80bf886fb62d,31,Male,Pune,Groceries,9382.27,Credit Card,2024-07-22,4
+7916c631-1a5f-4dc1-a9ae-05878460a480,61,Male,Kolkata,Books,10807.8,Debit Card,2023-12-30,7
+721bcf26-9c35-468d-8924-fa29dd82b318,62,Other,Surat,Sports,553.99,Credit Card,2024-12-10,9
+a4e97fad-ff19-4524-9f81-bc679e06fab6,51,Other,Pune,Groceries,34253.0,UPI,2024-01-18,3
+8424f97e-d662-4ac3-b1ba-0f0a7d924f12,36,Male,Bengaluru,Electronics,3809.27,Debit Card,2025-03-11,8
+72d89def-60b2-461a-bf17-2f1041063da3,27,Female,Delhi,Groceries,37789.12,Credit Card,2024-12-11,9
+2780ed97-8006-43f6-961d-ef7a0da36ef0,26,Male,Pune,Electronics,34159.9,Debit Card,2024-12-10,8
+50b7d8ca-5bb0-4423-9a60-37f0d35d718f,46,Male,Chennai,Clothing,45708.59,Credit Card,2024-03-20,7
+c9ca6633-c2ae-4721-9f3a-344f144ef600,49,Other,Mumbai,Toys,38644.46,Credit Card,2024-03-24,6
+08f9fe55-1f8c-4196-aba2-a38d65b71cbc,42,Female,Chennai,Books,11810.71,Cash,2024-06-04,5
+fead94d8-a498-4ed6-b281-24d119565239,32,Female,Chennai,Groceries,21531.17,Debit Card,2025-06-19,9
+33a3a58d-9e6a-466d-ba79-94cd76507063,44,Female,Bengaluru,Automobile,14047.11,Net Banking,2025-01-06,8
+5a754cd7-db91-4085-a76c-080dcca84ca7,29,Other,Bengaluru,Furniture,33571.45,UPI,2025-08-11,2
+210604f8-ab89-488f-8076-19c9c3d0aadf,43,Female,Pune,Sports,23826.93,Credit Card,2023-12-22,1
+678469a0-297c-46b1-b8be-cb535f75fccd,44,Male,Chennai,Electronics,38897.21,Cash,2025-03-19,3
+b7c7c4e6-f136-4b97-a35a-62039a51e38c,44,Other,Bengaluru,Toys,45119.62,Net Banking,2025-01-31,1
+9a816279-43b4-43f6-851f-4a04d29621f6,35,Other,Hyderabad,Books,8167.38,Cash,2025-10-26,9
+429dd956-2af8-47b4-bc4c-66dd8a73b70a,45,Other,Bengaluru,Home Appliances,2408.91,Net Banking,2025-01-05,3
+10ff4a8f-601c-40a4-bb3a-aabd0a24eac1,41,Other,Chennai,Furniture,47775.03,Net Banking,2025-06-10,4
+964509a4-3ed1-4110-a181-0fce6bf43cba,45,Male,Bengaluru,Automobile,12801.33,Net Banking,2024-07-09,4
+9ddc9404-f6f0-43ba-b164-d21eeb3634c3,42,Other,Surat,Clothing,11202.53,Debit Card,2023-11-17,2
+dea3c6fd-26ef-4738-9e15-6cf69091851c,55,Other,Pune,Beauty,46539.59,Debit Card,2023-12-09,9
+11494149-b290-4157-9736-79b4c925238f,30,Female,Bengaluru,Clothing,47346.38,Credit Card,2024-09-29,5
+968f1695-6ce2-494c-bef7-9cbec93e07f5,24,Female,Bengaluru,Toys,12337.68,Credit Card,2025-02-07,2
+c07b1985-10c7-473c-9d59-1afa7e89da98,26,Other,Surat,Books,21997.95,Credit Card,2024-08-21,7
+bb7a2b18-26bc-400f-bd08-9df3870432cd,22,Other,Delhi,Toys,48567.49,Credit Card,2024-05-19,5
+e9c6c43c-7caf-4754-805b-9f9270867355,50,Female,Pune,Groceries,1567.87,Cash,2024-01-23,8
+d0e3b41d-ecf4-4d83-bd48-fd7ddb667cc3,40,Male,Pune,Beauty,16797.51,Credit Card,2025-09-02,4
+77eed0ad-3b05-4f72-8764-252c2517f539,42,Male,Kolkata,Groceries,44392.42,Cash,2023-12-16,6
+c346e93b-cdd8-407a-b471-3d24321a2825,21,Other,Delhi,Electronics,32724.79,Net Banking,2025-08-19,5
+58fe5d20-7061-4a87-bc73-c67c3fa67ce2,40,Male,Bengaluru,Beauty,3862.63,Debit Card,2024-08-27,4
+a8bfeaef-0765-4908-bc3d-0226e591f4ef,46,Other,Kolkata,Home Appliances,49019.47,Net Banking,2025-03-30,9
+22864285-d6c2-42a0-a70b-76057e345fa9,21,Other,Mumbai,Automobile,15858.27,Cash,2025-07-05,5
+32feb5b9-2f30-4604-b137-6b9e87040ca3,56,Male,Hyderabad,Toys,33434.61,Net Banking,2023-12-14,5
+2641eafa-20b9-4c1c-a528-a0e1dd0f491e,41,Female,Hyderabad,Home Appliances,17082.36,Cash,2025-06-12,2
+37bbb59c-e997-4350-90bd-f8c690cec18b,18,Other,Kolkata,Sports,3928.17,Net Banking,2024-06-02,1
+5a30dd0b-087a-4ac1-990f-12b04c2989f8,32,Other,Pune,Books,3185.09,Credit Card,2025-09-06,4
+46d176d2-2806-4bd3-85d0-e2b39c456b35,38,Other,Pune,Electronics,15919.23,UPI,2024-08-11,4
+ce04a196-c64f-4555-b990-aceec112efae,64,Other,Delhi,Automobile,49655.71,Debit Card,2025-06-03,9
+1b8822d4-f199-4f24-8809-395410caa5d0,25,Male,Kolkata,Beauty,7965.19,UPI,2025-05-25,9
+0cecd403-01c4-4cdf-9df4-ff44a63f3f6b,45,Male,Hyderabad,Furniture,3472.03,Debit Card,2024-03-31,6
+d8b3e8f8-2a71-4563-9ae4-0e05483b20fc,38,Other,Mumbai,Books,33139.82,Credit Card,2025-10-29,9
+98537795-600b-4efb-8560-8d31aeaf7a80,53,Other,Kolkata,Home Appliances,1689.71,Debit Card,2025-11-06,7
+005f90a8-c27a-4117-9c81-726b07548171,42,Other,Delhi,Groceries,5363.0,Cash,2025-01-29,2
+633c505a-5a10-45cf-929e-f57ad18dc98d,52,Male,Kolkata,Groceries,21023.41,UPI,2025-07-18,3
+e41cc632-8f6e-4e98-b819-1f5928af413f,56,Male,Chennai,Automobile,46267.72,UPI,2025-02-28,7
+adbcb0b4-d54b-434d-9512-f2f9564b6211,64,Male,Kolkata,Books,2088.62,Debit Card,2025-01-18,5
+f13d541c-754e-41ff-bb97-01f305917e68,38,Female,Pune,Books,36261.94,Credit Card,2024-09-29,9
+a8331ce8-27ad-4a6c-b389-9147126ad4b7,48,Female,Bengaluru,Furniture,47346.78,Debit Card,2025-04-20,4
+b5ea66b3-1f82-47e1-9bc7-9897e80883c4,57,Female,Hyderabad,Toys,13429.23,Debit Card,2024-12-06,4
+872d03f6-8e4a-4d07-8ffa-cc812d4aabfb,60,Male,Pune,Books,40855.64,Net Banking,2024-01-22,8
+e94c3433-23d8-44d1-9279-2efc595a0eef,26,Female,Kolkata,Groceries,22835.55,Debit Card,2024-11-28,8
+0834a5a1-b73f-47c7-958f-d4d8425b805d,39,Male,Mumbai,Home Appliances,31762.91,Cash,2024-06-15,7
+e6fdd307-73d3-46d1-9f0b-7036f0bf305d,56,Female,Delhi,Groceries,40442.47,Net Banking,2025-10-21,2
+2e6b7580-7b65-422a-86da-35d38ec93c1d,60,Other,Pune,Books,43899.38,UPI,2025-04-30,9
+0f050c45-7df3-4527-b239-382386402171,59,Male,Kolkata,Furniture,13828.27,UPI,2025-07-24,4
+9a683598-b920-47c4-9b98-e925b27dd69d,19,Other,Pune,Furniture,14890.9,Net Banking,2023-12-24,1
+8200873f-6a7c-40e2-b8ee-0b8458beccf5,60,Other,Pune,Groceries,40497.6,Credit Card,2025-10-04,8
+39e4b491-df17-4d1f-ba3c-a4acd7bbf387,46,Other,Kolkata,Clothing,43602.32,Cash,2025-05-11,7
+882957f0-8c0e-4f34-8851-d08771be4ae2,52,Other,Kolkata,Books,6929.49,Credit Card,2025-01-17,1
+75333357-8f44-4c21-8dac-fb6568bde369,56,Female,Delhi,Automobile,47254.77,Credit Card,2024-02-25,7
+4f966fcf-e80e-4933-8adc-88378d0049b9,52,Female,Hyderabad,Beauty,35747.91,Credit Card,2024-01-21,9
+113dfd20-5604-4985-833f-a25cfb73471c,24,Male,Delhi,Books,19235.85,Credit Card,2025-06-25,7
+16794fab-102e-4cb7-b180-893cc9d90841,43,Male,Pune,Books,3341.96,Cash,2024-04-05,9
+e8802b37-7d18-4568-a215-0926be02b502,38,Other,Pune,Home Appliances,19340.88,Credit Card,2025-07-13,1
+fea64c63-c198-4d36-a15c-f8741af61b3e,32,Male,Mumbai,Electronics,21944.77,Cash,2025-04-07,1
+976fe5e2-eb75-4d06-bcc9-ca0d482a6fa9,52,Male,Bengaluru,Electronics,13343.67,Cash,2024-05-22,7
+488fe77e-e004-438b-8013-c0bb840bfbc4,21,Female,Kolkata,Groceries,39080.61,Cash,2023-11-20,7
+5981c6ff-a73f-41d4-8912-d8ba49d80b70,48,Female,Chennai,Books,31672.08,Credit Card,2024-03-21,6
+ecd5aa8b-327f-4736-9aeb-a3214c5a02b7,28,Other,Pune,Automobile,39055.21,Net Banking,2025-10-04,4
+a13c951a-2345-4a5d-bc70-076a1d81a9ea,29,Other,Delhi,Toys,10757.18,UPI,2024-01-21,3
+704859c6-f227-4e89-a728-ca031eb71869,63,Female,Kolkata,Beauty,34745.65,UPI,2025-02-04,2
+bd638d19-12a6-4293-9df5-d93cbdd31d2b,37,Male,Mumbai,Furniture,44929.53,Cash,2024-06-07,9
+d7ed11f9-c6f0-426a-95a3-0242c198225c,29,Other,Surat,Automobile,9331.56,Cash,2024-06-05,1
+0cf907d9-e1d6-4a0c-860a-a6fa94d24d37,63,Other,Hyderabad,Books,4971.4,Net Banking,2024-07-31,3
+796c6f05-9d99-4be9-a93d-082ef03a24c3,24,Male,Bengaluru,Clothing,19620.94,Debit Card,2025-06-01,3
+28c9ae1e-23f9-4489-9df4-ed0ffd93d792,43,Other,Kolkata,Toys,10287.23,Cash,2025-04-11,1
+40ee5419-f021-4306-8701-2e1351fa4364,61,Male,Delhi,Toys,13748.84,Credit Card,2024-08-14,6
+5d47de2e-863b-4f22-af99-c16f7c64b920,48,Male,Surat,Groceries,25129.85,Net Banking,2024-11-08,2
+b294b65f-f423-4ce0-a4b4-7840fe864704,58,Male,Pune,Books,26218.33,UPI,2024-05-02,6
+a200e10a-95da-495d-8c77-706230f09fc9,29,Male,Mumbai,Electronics,18041.83,Net Banking,2025-03-06,1
+98d5fdd3-03c1-419a-a550-f6721364b232,51,Female,Hyderabad,Electronics,22051.24,UPI,2024-04-21,8
+4dc37fbc-694c-4516-9037-07e57ffb9da7,45,Male,Kolkata,Furniture,49529.04,Net Banking,2024-03-24,3
+452880b5-0f58-497b-96d2-0e4ecac38489,35,Female,Delhi,Sports,39314.3,UPI,2024-08-22,9
+aace19bb-0d12-4101-8289-6b62ff224167,27,Other,Pune,Toys,40344.13,Debit Card,2025-10-08,3
+b7dce8f9-bfed-4b7c-a446-804dd2568c55,32,Other,Chennai,Electronics,27117.43,Cash,2025-01-22,4
+70cf5a4a-76f9-4521-803b-01ed1627b7cc,26,Male,Bengaluru,Clothing,4335.04,Net Banking,2025-09-25,9
+2ea03ff0-b421-455f-95e6-59776ed0263f,30,Other,Hyderabad,Books,9245.11,UPI,2023-12-06,1
+99884b7e-fd10-414c-9f4a-7ad96dfcef82,40,Male,Pune,Clothing,9966.92,Credit Card,2025-08-23,6
+07ab812e-5559-4216-8983-2154db50bc56,25,Male,Chennai,Books,45125.16,Debit Card,2023-12-17,1
+e485f6e9-c8e1-46d0-8782-079e754a00fa,27,Other,Hyderabad,Electronics,44514.07,Cash,2025-08-04,5
+5e44a72b-6036-4a8f-a15e-f7b1c4b07306,18,Female,Surat,Electronics,21729.93,Credit Card,2023-12-04,5
+6c8d1f8e-7e4a-4647-bb7b-ba3ff9508b92,46,Female,Kolkata,Beauty,34490.33,Cash,2023-12-06,9
+3f147d7b-5221-49ce-953f-7e6733059d7c,50,Other,Pune,Toys,19620.02,Cash,2025-07-20,6
+d41f1a19-5e13-4b0d-a7ae-f06b22d8d07f,36,Other,Kolkata,Electronics,8079.31,Debit Card,2024-04-13,1
+be095649-5e2e-47c2-94b6-962c72308eef,53,Female,Hyderabad,Books,10727.5,Debit Card,2025-01-08,2
+f21dcbc4-e3e7-4f2d-9ac9-d1a8d3f31ec6,55,Male,Bengaluru,Beauty,39620.66,Debit Card,2024-03-08,7
+088a8420-4279-47b6-bcf9-f63abe268b51,57,Other,Pune,Electronics,46471.04,Debit Card,2025-11-02,9
+720f1ce7-7f85-47ac-8a2e-be3e4fc41556,62,Other,Chennai,Groceries,17756.29,Net Banking,2024-04-28,5
+2c6d1cb7-8d68-438e-a5a3-e4b25c74e1e9,61,Female,Kolkata,Electronics,48981.01,Net Banking,2024-08-23,5
+852b4421-25bd-441a-9c67-8b6bab044794,19,Female,Delhi,Toys,41379.54,Cash,2024-04-13,3
+cf6bd298-f0ec-4d7f-bf4a-65b63571a81a,34,Other,Kolkata,Home Appliances,44372.07,UPI,2025-08-17,8
+f4eb3bda-6a10-4c84-9c1c-321e81c1dcd2,63,Female,Chennai,Electronics,45262.68,Credit Card,2024-10-28,9
+8b8aecbc-6798-4cb9-9c06-7af83bd30ea8,30,Other,Delhi,Groceries,29843.64,Net Banking,2024-12-20,9
+0a861839-b6a7-4a9f-8c25-3bd163f8486f,57,Other,Pune,Automobile,28511.59,Net Banking,2024-04-14,6
+6571cc00-0c9e-4b59-b24d-f8a65dc86eb8,57,Other,Chennai,Home Appliances,25678.12,Debit Card,2023-11-28,4
+e61c8d33-6cd8-4269-84ba-76d5f57e4725,19,Male,Hyderabad,Home Appliances,22250.4,UPI,2025-07-26,4
+56698551-e996-4cf3-8da3-85e1f2524eaf,58,Female,Surat,Books,10495.07,Credit Card,2025-07-27,5
+c5ccee45-7890-470f-9c58-dde934a14f8b,28,Other,Kolkata,Beauty,21163.83,Credit Card,2025-05-07,4
+a7946861-3e03-45a5-8523-845f81d909c1,52,Other,Surat,Groceries,25302.3,Net Banking,2024-12-29,9
+9bd8169f-5494-4129-999e-44872caeb410,58,Male,Hyderabad,Groceries,4333.25,Cash,2024-05-23,5
+8c4b842c-2d20-41a8-8dd6-eba71359d2ef,31,Female,Surat,Home Appliances,49135.15,Net Banking,2025-05-31,1
+84aaaea6-d182-4790-a7a0-e02a63a4c08e,36,Female,Bengaluru,Toys,18932.16,Net Banking,2025-01-20,4
+d3ee7a9c-4bd6-4816-acd0-cc7ac9b32b5e,48,Male,Mumbai,Sports,16374.5,Credit Card,2024-12-09,4
+072f0fff-5eaf-4f0a-a829-c3806b5919cf,52,Female,Kolkata,Groceries,33506.93,Credit Card,2025-03-30,2
+1e1838c8-a3db-4040-ba1f-bff8dfe74d19,34,Other,Bengaluru,Automobile,3231.74,UPI,2025-10-22,2
+2613cf14-10c0-40b4-94f8-ad24bc5edd41,44,Male,Hyderabad,Electronics,13547.61,UPI,2025-09-11,4
+ea34acd9-37ed-47b4-800d-85b407a35b95,26,Male,Surat,Electronics,33200.82,Debit Card,2024-08-21,2
+efe28690-f009-491d-bfa1-dc9baa650305,54,Female,Pune,Home Appliances,945.06,Debit Card,2025-05-15,1
+3ec6744e-8489-46e1-88e2-df358dd1b8b3,63,Female,Mumbai,Furniture,5974.59,Net Banking,2025-07-15,3
+329a8cfd-753a-4ee2-8b38-abd4a4afb2b8,33,Other,Chennai,Automobile,28264.3,Net Banking,2025-05-16,9
+cdc17e7e-d284-4936-9399-841510dc837e,25,Female,Kolkata,Electronics,22869.99,Cash,2023-12-03,9
+fa6e7149-f709-4db2-be46-7ba73c11abaf,26,Male,Surat,Clothing,38013.85,Net Banking,2024-10-04,7
+2a881a5f-37ff-4e1b-b6a1-0435ce8ef83a,46,Other,Bengaluru,Books,7646.85,Net Banking,2025-06-26,1
+590a442d-5088-4fa9-8fee-3bc61aeea02f,45,Other,Hyderabad,Automobile,2905.98,UPI,2025-09-17,8
+29e852a7-486f-4279-a420-e6a34299d742,34,Male,Surat,Clothing,8784.05,UPI,2025-04-08,6
+8d53cea3-2a64-403e-a4ed-b0ddef9958d6,45,Female,Kolkata,Automobile,11744.9,Cash,2024-08-31,5
+ff0defc7-2846-492c-83ea-e2e7ff9ef702,63,Male,Delhi,Automobile,18747.19,UPI,2025-01-21,2
+5613d42a-10ee-45a1-8c2d-049ab8076957,24,Male,Hyderabad,Books,46332.53,Net Banking,2024-11-06,5
+3ba658f8-f183-4a30-9a8f-5841a4bc517f,21,Male,Mumbai,Books,24177.65,Credit Card,2025-05-02,5
+e21f9ab6-1166-43a2-b95c-6279dfffa1a0,58,Female,Delhi,Home Appliances,9378.74,UPI,2024-02-05,8
+69fb07f7-152f-471b-aef2-5ebcf26cac9d,22,Other,Hyderabad,Furniture,47707.67,Debit Card,2024-10-14,6
+480cec0a-8ba9-44f6-ad15-bac8f182cef1,48,Female,Bengaluru,Electronics,39060.3,Cash,2025-03-25,4
+aa7150cf-9320-421f-9240-d67db06d6bd6,61,Male,Chennai,Clothing,2019.59,Cash,2024-02-29,9
+02d3240b-49ea-4ab8-88bc-2d4a725031ea,33,Female,Delhi,Toys,24690.4,Credit Card,2025-11-06,4
+096c5e02-f9e8-4643-99e6-086bd7385ecf,38,Other,Delhi,Sports,15099.29,Cash,2024-07-27,2
+2135ea3d-aa7c-43e1-b3e6-848b56b32720,45,Female,Surat,Books,2180.1,UPI,2024-09-14,7
+ba61226a-b30d-43e7-a736-f489e9432943,27,Male,Chennai,Books,15244.25,Credit Card,2024-01-22,4
+82e97451-aebe-48a0-96f8-c5b3ea4f9b99,26,Other,Bengaluru,Home Appliances,10547.04,Cash,2024-03-04,6
+8b68bcca-17ec-43a9-bdc8-8bce3c8ef19a,34,Male,Chennai,Electronics,46270.3,Debit Card,2024-08-31,2
+7cf51bae-edd5-4ab3-a1ac-6caa0b284d67,37,Female,Bengaluru,Home Appliances,28539.22,Cash,2024-07-31,1
+81818896-c5b6-4c5d-8b88-d4e41dff9bc6,50,Male,Chennai,Beauty,4445.36,Debit Card,2024-05-19,6
+db16f03b-6e52-47d4-ad99-8b1f08d732b2,33,Female,Bengaluru,Toys,49867.34,Net Banking,2025-09-22,5
+4c130140-e482-472a-90e7-d38d0f0b9f83,41,Other,Pune,Clothing,3044.75,Credit Card,2024-10-10,3
+90a9beae-6092-4a32-a044-39d4eff3f0e1,60,Male,Pune,Clothing,13709.29,UPI,2025-10-18,7
+2776b31b-b3ea-46dd-9409-55772e690f7b,31,Female,Pune,Toys,3212.92,Cash,2024-02-25,7
+02739338-b8c8-4d7b-a075-9f3d2dd33c17,57,Other,Bengaluru,Clothing,12822.97,Cash,2025-01-24,8
+2b307608-0ca2-455b-91cf-b8a325229609,29,Male,Mumbai,Furniture,41720.66,Cash,2025-10-09,8
+dd71e5b0-09a3-40fe-abe0-1b8025588fbd,44,Other,Kolkata,Groceries,26893.96,Cash,2024-03-31,1
+3f0b6e78-0381-4fa7-939b-07aab4b9f8df,46,Female,Bengaluru,Groceries,44725.88,Debit Card,2024-06-26,6
+a7491b41-0eed-4664-ac9a-cc4ae1bb899c,55,Other,Delhi,Sports,36093.64,Debit Card,2024-01-31,2
+b2ac7464-2626-4c64-9861-34378e0bfb5d,43,Female,Hyderabad,Beauty,7867.49,Net Banking,2025-09-03,4
+9e027a05-1b89-4392-8dce-b0b03cdfb48c,30,Female,Hyderabad,Toys,39656.08,Debit Card,2023-12-28,2
+3b87b2d0-69d3-48b6-931a-2ff2ea5a1187,34,Male,Pune,Furniture,18676.16,Net Banking,2024-02-28,1
+9527403a-3889-4396-8eac-36628e8fb553,20,Male,Surat,Electronics,48765.45,Cash,2025-09-09,6
+7331f8ea-b48e-4ade-b14b-bd016939f528,27,Male,Delhi,Clothing,5024.09,Credit Card,2025-10-31,2
+4a205911-21ad-424d-800b-e78e5b7e9fbe,19,Male,Bengaluru,Electronics,35445.24,UPI,2025-09-08,6
+5614eeff-5d88-467a-967d-d0c11f0bdd46,46,Male,Kolkata,Furniture,24416.81,Cash,2025-05-20,4
+f825c1f0-6a79-4f45-a141-6c9d3f75ecc0,39,Male,Kolkata,Books,14059.11,Cash,2025-10-03,2
+1fc73216-4a7d-4fbd-96de-9646bc085b51,41,Male,Chennai,Sports,23269.7,Net Banking,2024-03-19,4
+75812380-53f7-4b58-82e0-dbc3a0522d5f,49,Other,Chennai,Automobile,46350.55,Debit Card,2024-05-23,6
+35bfa669-ced6-4dc1-a19e-108380038df2,24,Female,Mumbai,Clothing,44678.36,Credit Card,2024-02-28,7
+4e5b4a09-1c4b-48fc-ad68-6f1f00cbf970,64,Female,Kolkata,Toys,38705.93,Credit Card,2025-06-15,5
+17916a96-be03-41ce-8c59-faeea41de301,27,Female,Bengaluru,Toys,38471.13,Credit Card,2025-02-28,1
+3dde9b7c-3a0c-4428-9496-d5bf5c9ed02e,41,Other,Hyderabad,Clothing,48365.97,Cash,2025-01-12,6
+bf74e015-b94d-42d9-82fc-d2a70032df01,46,Female,Delhi,Groceries,27668.73,Credit Card,2025-09-22,8
+e2f9ecbe-7ab4-4650-a0ec-e8afbb7d0bb0,21,Male,Bengaluru,Toys,14085.4,UPI,2025-08-23,4
+e7a9441c-21ba-45f5-9be3-2a86cb4b6492,35,Male,Hyderabad,Home Appliances,9227.65,Credit Card,2024-09-22,5
+2ca163d3-6a23-4013-ba47-d248d11d81fe,30,Female,Mumbai,Furniture,24499.25,Cash,2024-03-18,6
+083faab5-3b10-4e1d-bfc8-613d39b37b0d,31,Other,Pune,Home Appliances,47602.53,Debit Card,2024-06-26,6
+bfda5f2a-89bb-4120-a884-8a7c8632d97c,20,Other,Chennai,Automobile,33340.45,UPI,2024-12-13,4
+e5e7e8b9-0cbc-4919-a277-e2188a3bc32e,35,Female,Bengaluru,Groceries,15144.86,Net Banking,2025-08-24,8
+d9b26b71-586c-4f79-8ada-1a046c52470a,55,Male,Hyderabad,Electronics,5681.25,Credit Card,2023-12-27,9
+2914e155-13d4-4f94-bbde-2c76432a28fe,55,Other,Bengaluru,Beauty,12008.6,UPI,2024-03-10,4
+4ec618ce-4e72-4bd9-b92e-cddc29fb3479,25,Male,Hyderabad,Toys,4003.6,Debit Card,2024-10-27,6
+071e49ce-8648-42e9-82fd-febb808fd44e,36,Female,Pune,Beauty,44892.12,Debit Card,2024-07-22,7
+85c3267f-4554-4fd3-ac92-f26486a47f0e,33,Other,Pune,Toys,23595.89,Credit Card,2025-08-20,5
+31a8a709-57f9-4d06-b6bf-11825e7c4ffc,33,Other,Bengaluru,Home Appliances,1851.02,Cash,2025-10-12,3
+deed3004-6029-4349-980d-f4e4a18cb2ec,40,Other,Pune,Clothing,3270.75,Debit Card,2025-05-01,2
+c6be542b-5ce4-4cf0-ab62-f3db30cdd944,47,Male,Surat,Books,34798.99,UPI,2024-02-05,8
+7f65f1cb-e653-4964-9535-7e6faca91028,37,Other,Kolkata,Clothing,25355.02,Cash,2025-10-03,7
+34da7521-6e46-4a9d-b9e4-e122ab6e6ffe,19,Female,Chennai,Books,37778.05,Cash,2024-11-03,6
+85f463c0-2037-4bff-a1d7-b1e8b30198e0,44,Female,Delhi,Clothing,43644.78,Debit Card,2024-04-22,8
+c43dcf9d-b79b-4943-8c73-d7645f28d6fb,35,Other,Chennai,Clothing,36019.65,Net Banking,2024-08-19,4
+7de242bf-e805-492e-8c80-dc04b7e23596,35,Male,Bengaluru,Furniture,7858.68,UPI,2025-06-26,8
+3f30fb90-b0ed-4ca9-b794-49b0958e7ba7,63,Other,Pune,Beauty,29006.91,Credit Card,2024-03-18,8
+b3f2c9ef-8889-4135-ae59-a600c10cda11,33,Other,Bengaluru,Electronics,35989.74,Credit Card,2025-01-20,4
